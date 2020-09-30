@@ -67,12 +67,6 @@
       "url": "https://github.com/indeedeng/k8dash/issues/56"
     },
     {
-      "title": "Add logs for init_containers",
-      "createdAt": "2019-12-26T08:21:58Z",
-      "repositoryNameWithOwner": "indeedeng/k8dash",
-      "url": "https://github.com/indeedeng/k8dash/issues/49"
-    },
-    {
       "title": "Feature Request: Redeploy pods that are created by deployments/replicasets",
       "createdAt": "2019-04-12T07:31:13Z",
       "repositoryNameWithOwner": "indeedeng/k8dash",

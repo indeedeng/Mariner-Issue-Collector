@@ -1,14 +1,14 @@
-# Mariner Demo App
+# Mariner Issue Collector
 
-![OSS Lifecycle](https://img.shields.io/osslifecycle/indeedeng/mariner-demo-app.svg)
+![OSS Lifecycle](https://img.shields.io/osslifecycle/indeedeng/mariner-issue-collector.svg)
 
-This app is a demo of the [Mariner](https://github.com/indeedeng/mariner) library. This demo is configured to run automatically as a GitHub Action.
+Mariner Issue Collector is a live demo that implements the [Mariner](https://github.com/indeedeng/mariner) library. This demo is configured to run automatically as a GitHub Action.
 
 Mariner helps you identify recently opened issues in a list of GitHub repositories that you provide. We use Mariner at Indeed to identify beginner-friendly issues that were recently opened in open source projects that we depend on.
 
 ## Getting Started
 
-Running the Mariner Demo App requires a few steps.
+Running the Mariner Issue Collector requires a few steps.
 
 ### Step 1 : Update the list of repos
 
@@ -51,9 +51,9 @@ node Utilities/generateGitHubMarkdown.js
 
 This will parse the outputData.json file and update the [githubMarkdown](./OutputFiles/githubMarkdown.md) with a list of issues that can be easily viewed on GitHub.
 
-## Mariner Demo App As A GitHub Action
+## Mariner Issue Collector As A GitHub Action
 
-The Mariner Demo App ships with a default GitHub Action that runs every 8 hours to generate a fresh issue list. Details are in the [action YAML file](./.github/workflows/main.yml)
+Mariner ships with a default GitHub Action that runs every 8 hours to generate a fresh issue list. Details are in the [action YAML file](./.github/workflows/main.yml)
 
 ## Getting Help
 
@@ -68,7 +68,7 @@ Before starting any new work, please open an issue and tell us about the contrib
 This project is primarily maintained by @DuaneOBrien.
 
 ## Code of Conduct
-This project is governed by the [Contributor Covenant v 1.4.1](CODE_OF_CONDUCT.md). (Review the Code of Conduct and remove this sentence before publishing your project.)
+This project is governed by the [Contributor Covenant v 1.4.1](CODE_OF_CONDUCT.md)
 
 ## License
-This project uses the [MIT](LICENSE) license. (Update this and the LICENSE file if your project uses a different license.)
+This project uses the [MIT](LICENSE) license.

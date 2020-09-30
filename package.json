@@ -1,5 +1,5 @@
 {
-    "name": "Mariner-Demo-App",
+    "name": "Mariner-Issue-Collector",
     "version": "0.0.1-alpha",
     "description": "A demo app of oss-mariner that can run as a GitHub Action",
     "author": "Indeed, Inc",
@@ -10,6 +10,6 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/indeedeng/Mariner-Demo-App.git"
+        "url": "git+https://github.com/indeedeng/Mariner-Issue-Collector.git"
     }
 }

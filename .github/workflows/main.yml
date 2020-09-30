@@ -1,0 +1,38 @@
+name: Collect Latest Issues
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 */8 * * *'
+
+jobs:
+  findIssues:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Mariner Repo
+        uses: actions/checkout@v2
+      - name: Run Install
+        id: mariner_install
+        run: |
+          npm install
+      - name: Query For Issues
+        id: mariner_issue_collector
+        run: |
+          node findIssues.js
+        env:
+          MARINER_GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          MARINER_INPUT_FILE_PATH: "./InputFiles/inputData.json"
+          MARINER_OUTPUT_FILE_PATH: "./OutputFiles/outputData.json"
+          MARINER_MARKDOWN_FILE_PATH: "./OutputFiles/githubMarkdown.md"
+          MARINER_MAX_ISSUES_AGE: "30"
+      - name: Format Markdown
+        id: mariner_markdown_formatter
+        run: |
+          node Utilities/generateGitHubMarkdown.js
+      - name: Commit And Push Issues Output
+        run: |
+          git config --local user.email "opensource@indeed.com"
+          git config --local user.name "Mariner Issue Collector"
+          git add ./OutputFiles/outputData.json
+          git add ./OutputFiles/githubMarkdown.md
+          git commit -m "Mariner auto-generating a fresh issues list"
+          git push

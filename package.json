@@ -1,0 +1,15 @@
+{
+    "name": "Mariner-Demo-App",
+    "version": "0.0.1-alpha",
+    "description": "A demo app of oss-mariner that can run as a GitHub Action",
+    "author": "Indeed, Inc",
+    "license": "MIT",
+    "dependencies": {
+        "moment": "^2.24.0",
+        "oss-mariner": "^0.3.1-alpha"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/indeedeng/Mariner-Demo-App.git"
+    }
+}

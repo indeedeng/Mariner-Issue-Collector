@@ -2,7 +2,7 @@
 
 ![OSS Lifecycle](https://img.shields.io/osslifecycle/indeedeng/mariner-demo-app.svg)
 
-This app is a demo of the [Mariner](https://github.com/indeedeng/mariner) that can run as a GitHub Action.
+This app is a demo of the [Mariner](https://github.com/indeedeng/mariner) library. This demo is configured to run automatically as a GitHub Action.
 
 Mariner helps you identify recently opened issues in a list of GitHub repositories that you provide. We use Mariner at Indeed to identify beginner-friendly issues that were recently opened in open source projects that we depend on.
 
@@ -16,7 +16,7 @@ Update the [inputData](./InputFiles/inputData.json) file with repositories you'r
 
 ### Step 2 : Set environment variables
 
-At a minimum, the demo app will expect you to have set a MARINER_GITHUB_TOKEN environment variable, containing an auth token for the GitHub API.
+At a minimum, the demo app will expect you to have set a MARINER_GITHUB_TOKEN environment variable, containing an auth token for the GitHub API. Other environment variables, and their default values, are shown below.
 
 ```
 MARINER_GITHUB_TOKEN: Your Auth Token

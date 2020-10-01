@@ -111,12 +111,6 @@
       "url": "https://github.com/depscloud/depscloud/issues/14"
     },
     {
-      "title": "Migrate to eslint",
-      "createdAt": "2020-07-07T12:18:48Z",
-      "repositoryNameWithOwner": "depscloud/depscloud",
-      "url": "https://github.com/depscloud/depscloud/issues/19"
-    },
-    {
       "title": "Add support for crawling AWS CodeCommit",
       "createdAt": "2020-07-01T18:19:30Z",
       "repositoryNameWithOwner": "depscloud/depscloud",

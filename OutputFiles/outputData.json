@@ -1,12 +1,6 @@
 {
   "indeedeng/k8dash": [
     {
-      "title": "\"Node Ram\" chart needs to inteligently switch between Gb, Tb, Pb, etc.",
-      "createdAt": "2020-10-02T15:13:11Z",
-      "repositoryNameWithOwner": "indeedeng/k8dash",
-      "url": "https://github.com/indeedeng/k8dash/issues/146"
-    },
-    {
       "title": "Use \"prefers-color-scheme\" to automatically switch to Dark Mode",
       "createdAt": "2020-10-02T14:09:12Z",
       "repositoryNameWithOwner": "indeedeng/k8dash",

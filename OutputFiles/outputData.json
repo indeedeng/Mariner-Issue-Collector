@@ -1,4 +1,84 @@
 {
+  "depscloud/depscloud": [
+    {
+      "title": "Setup nightly docker image builds",
+      "createdAt": "2020-10-05T15:44:37Z",
+      "repositoryNameWithOwner": "depscloud/depscloud",
+      "url": "https://github.com/depscloud/depscloud/issues/97"
+    },
+    {
+      "title": "GoModExtractor should support a retract tag",
+      "createdAt": "2020-09-14T15:44:29Z",
+      "repositoryNameWithOwner": "depscloud/depscloud",
+      "url": "https://github.com/depscloud/depscloud/issues/69"
+    },
+    {
+      "title": "Add `put manifests` command",
+      "createdAt": "2020-08-05T21:31:35Z",
+      "repositoryNameWithOwner": "depscloud/depscloud",
+      "url": "https://github.com/depscloud/depscloud/issues/1"
+    },
+    {
+      "title": "Add `extract manifests` command",
+      "createdAt": "2020-08-05T20:50:38Z",
+      "repositoryNameWithOwner": "depscloud/depscloud",
+      "url": "https://github.com/depscloud/depscloud/issues/2"
+    },
+    {
+      "title": "Add troubleshooting command",
+      "createdAt": "2020-08-03T17:16:11Z",
+      "repositoryNameWithOwner": "depscloud/depscloud",
+      "url": "https://github.com/depscloud/depscloud/issues/3"
+    },
+    {
+      "title": "Implement SearchService#DepthFirstSearch",
+      "createdAt": "2020-07-18T13:44:19Z",
+      "repositoryNameWithOwner": "depscloud/depscloud",
+      "url": "https://github.com/depscloud/depscloud/issues/14"
+    },
+    {
+      "title": "Add support for crawling AWS CodeCommit",
+      "createdAt": "2020-07-01T18:19:30Z",
+      "repositoryNameWithOwner": "depscloud/depscloud",
+      "url": "https://github.com/depscloud/depscloud/issues/8"
+    },
+    {
+      "title": "Design and develop UI component",
+      "createdAt": "2020-06-26T01:23:11Z",
+      "repositoryNameWithOwner": "depscloud/depscloud",
+      "url": "https://github.com/depscloud/depscloud/issues/59"
+    },
+    {
+      "title": "Support finding paths between modules",
+      "createdAt": "2020-06-24T15:21:43Z",
+      "repositoryNameWithOwner": "depscloud/depscloud",
+      "url": "https://github.com/depscloud/depscloud/issues/12"
+    },
+    {
+      "title": "Support indexing csproj",
+      "createdAt": "2020-06-10T13:28:27Z",
+      "repositoryNameWithOwner": "depscloud/depscloud",
+      "url": "https://github.com/depscloud/depscloud/issues/16"
+    },
+    {
+      "title": "Support indexing Python",
+      "createdAt": "2020-06-01T17:56:38Z",
+      "repositoryNameWithOwner": "depscloud/depscloud",
+      "url": "https://github.com/depscloud/depscloud/issues/18"
+    },
+    {
+      "title": "Add pretty printing",
+      "createdAt": "2020-04-16T21:28:38Z",
+      "repositoryNameWithOwner": "depscloud/depscloud",
+      "url": "https://github.com/depscloud/depscloud/issues/6"
+    },
+    {
+      "title": "Add support for parsing Coco Podfile",
+      "createdAt": "2019-06-02T14:14:27Z",
+      "repositoryNameWithOwner": "depscloud/depscloud",
+      "url": "https://github.com/depscloud/depscloud/issues/27"
+    }
+  ],
   "indeedeng/k8dash": [
     {
       "title": "\"Filtering\" should support permalinks",
@@ -83,86 +163,6 @@
       "createdAt": "2019-04-12T07:31:13Z",
       "repositoryNameWithOwner": "indeedeng/k8dash",
       "url": "https://github.com/indeedeng/k8dash/issues/14"
-    }
-  ],
-  "depscloud/depscloud": [
-    {
-      "title": "GoModExtractor should support a retract tag",
-      "createdAt": "2020-09-14T15:44:29Z",
-      "repositoryNameWithOwner": "depscloud/depscloud",
-      "url": "https://github.com/depscloud/depscloud/issues/69"
-    },
-    {
-      "title": "Add `/version` endpoint",
-      "createdAt": "2020-09-11T13:31:48Z",
-      "repositoryNameWithOwner": "depscloud/depscloud",
-      "url": "https://github.com/depscloud/depscloud/issues/58"
-    },
-    {
-      "title": "Add `put manifests` command",
-      "createdAt": "2020-08-05T21:31:35Z",
-      "repositoryNameWithOwner": "depscloud/depscloud",
-      "url": "https://github.com/depscloud/depscloud/issues/1"
-    },
-    {
-      "title": "Add `extract manifests` command",
-      "createdAt": "2020-08-05T20:50:38Z",
-      "repositoryNameWithOwner": "depscloud/depscloud",
-      "url": "https://github.com/depscloud/depscloud/issues/2"
-    },
-    {
-      "title": "Add troubleshooting command",
-      "createdAt": "2020-08-03T17:16:11Z",
-      "repositoryNameWithOwner": "depscloud/depscloud",
-      "url": "https://github.com/depscloud/depscloud/issues/3"
-    },
-    {
-      "title": "Implement SearchService#DepthFirstSearch",
-      "createdAt": "2020-07-18T13:44:19Z",
-      "repositoryNameWithOwner": "depscloud/depscloud",
-      "url": "https://github.com/depscloud/depscloud/issues/14"
-    },
-    {
-      "title": "Add support for crawling AWS CodeCommit",
-      "createdAt": "2020-07-01T18:19:30Z",
-      "repositoryNameWithOwner": "depscloud/depscloud",
-      "url": "https://github.com/depscloud/depscloud/issues/8"
-    },
-    {
-      "title": "Design and develop UI component",
-      "createdAt": "2020-06-26T01:23:11Z",
-      "repositoryNameWithOwner": "depscloud/depscloud",
-      "url": "https://github.com/depscloud/depscloud/issues/59"
-    },
-    {
-      "title": "Support finding paths between modules",
-      "createdAt": "2020-06-24T15:21:43Z",
-      "repositoryNameWithOwner": "depscloud/depscloud",
-      "url": "https://github.com/depscloud/depscloud/issues/12"
-    },
-    {
-      "title": "Support indexing csproj",
-      "createdAt": "2020-06-10T13:28:27Z",
-      "repositoryNameWithOwner": "depscloud/depscloud",
-      "url": "https://github.com/depscloud/depscloud/issues/16"
-    },
-    {
-      "title": "Support indexing Python",
-      "createdAt": "2020-06-01T17:56:38Z",
-      "repositoryNameWithOwner": "depscloud/depscloud",
-      "url": "https://github.com/depscloud/depscloud/issues/18"
-    },
-    {
-      "title": "Add pretty printing",
-      "createdAt": "2020-04-16T21:28:38Z",
-      "repositoryNameWithOwner": "depscloud/depscloud",
-      "url": "https://github.com/depscloud/depscloud/issues/6"
-    },
-    {
-      "title": "Add support for parsing Coco Podfile",
-      "createdAt": "2019-06-02T14:14:27Z",
-      "repositoryNameWithOwner": "depscloud/depscloud",
-      "url": "https://github.com/depscloud/depscloud/issues/27"
     }
   ],
   "indeedeng/starfish": [

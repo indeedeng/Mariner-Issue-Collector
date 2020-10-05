@@ -1,16 +1,28 @@
 {
   "indeedeng/k8dash": [
     {
+      "title": "\"Filtering\" should support permalinks",
+      "createdAt": "2020-10-04T20:27:34Z",
+      "repositoryNameWithOwner": "indeedeng/k8dash",
+      "url": "https://github.com/indeedeng/k8dash/issues/153"
+    },
+    {
+      "title": "Fix styling of dropdown's in dark mode",
+      "createdAt": "2020-10-04T17:11:37Z",
+      "repositoryNameWithOwner": "indeedeng/k8dash",
+      "url": "https://github.com/indeedeng/k8dash/issues/152"
+    },
+    {
+      "title": "Adding Table of Content to Readme.md",
+      "createdAt": "2020-10-04T16:40:02Z",
+      "repositoryNameWithOwner": "indeedeng/k8dash",
+      "url": "https://github.com/indeedeng/k8dash/issues/151"
+    },
+    {
       "title": "Use \"prefers-color-scheme\" to automatically switch to Dark Mode",
       "createdAt": "2020-10-02T14:09:12Z",
       "repositoryNameWithOwner": "indeedeng/k8dash",
       "url": "https://github.com/indeedeng/k8dash/issues/144"
-    },
-    {
-      "title": "Show new lines in configmaps keys",
-      "createdAt": "2020-09-29T09:10:36Z",
-      "repositoryNameWithOwner": "indeedeng/k8dash",
-      "url": "https://github.com/indeedeng/k8dash/issues/142"
     },
     {
       "title": "webpage backend / setting up on github pages",
@@ -23,12 +35,6 @@
       "createdAt": "2020-05-14T08:18:17Z",
       "repositoryNameWithOwner": "indeedeng/k8dash",
       "url": "https://github.com/indeedeng/k8dash/issues/94"
-    },
-    {
-      "title": "Sorting/Filtering should have permalinks",
-      "createdAt": "2020-05-12T20:55:35Z",
-      "repositoryNameWithOwner": "indeedeng/k8dash",
-      "url": "https://github.com/indeedeng/k8dash/issues/93"
     },
     {
       "title": "Add graphs for viewing Disk usage (similar to existing CPU/RAM graphs)",

@@ -19,7 +19,7 @@ jobs:
         run: |
           node findIssues.js
         env:
-          MARINER_GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          MARINER_GITHUB_TOKEN: ${{ secrets.NEB_GITHUB_TOKEN }}
           MARINER_INPUT_FILE_PATH: "./InputFiles/inputData.json"
           MARINER_OUTPUT_FILE_PATH: "./OutputFiles/outputData.json"
           MARINER_MARKDOWN_FILE_PATH: "./OutputFiles/githubMarkdown.md"

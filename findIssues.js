@@ -16,10 +16,10 @@ function getFromEnvOrThrow(configField) {
 const token = getFromEnvOrThrow('MARINER_GITHUB_TOKEN');
 const inputFilePath =
     process.env.MARINER_INPUT_FILE_PATH ||
-    path.join(__dirname, 'inputFiles', 'inputData.json');
+    path.join(__dirname, 'InputFiles', 'inputData.json');
 const outputFilePath =
     process.env.MARINER_OUTPUT_FILE_PATH ||
-    path.join(__dirname, 'outputFiles', 'outputData.json');
+    path.join(__dirname, 'OutputFiles', 'outputData.json');
 
 class FancyLogger {
     info(message) {

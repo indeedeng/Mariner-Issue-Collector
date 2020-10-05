@@ -61,7 +61,15 @@ If you need help or find bugs, please open an issue.
 
 ## How To Contribute
 
-Before starting any new work, please open an issue and tell us about the contribution you'd like to make.
+If you see an open issue that you would like to work on, please make sure the issue has the "unclaimed" tag, and that there are no open pull requests for the issue.
+
+If an issue has the "unclaimed" tag, and you would like to claim it, comment on the issue. A maintainer will add the "claimed" tag to the issue and indicate to whom it has been assigned.  
+
+If you want to propose a new feature, please open an issue and tell us about the contribution you'd like to make. 
+
+**Regarding Hacktoberfest:** We will only tag pull requests with "hacktoberfest accepted" if:
+* The pull request references a claimed issue with the Hacktoberfest label
+* The pull request was submitted by the person who claimed the issue
 
 ## Project Maintainers
 

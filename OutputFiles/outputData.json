@@ -31,12 +31,6 @@
       "url": "https://github.com/depscloud/depscloud/issues/3"
     },
     {
-      "title": "Implement SearchService#DepthFirstSearch",
-      "createdAt": "2020-07-18T13:44:19Z",
-      "repositoryNameWithOwner": "depscloud/depscloud",
-      "url": "https://github.com/depscloud/depscloud/issues/14"
-    },
-    {
       "title": "Add support for crawling AWS CodeCommit",
       "createdAt": "2020-07-01T18:19:30Z",
       "repositoryNameWithOwner": "depscloud/depscloud",

@@ -62,10 +62,23 @@ function outputToJson(record) {
     return data;
 }
 
-const labels = ['hacktoberfest', 'good+first+issue']
+function formatLabels(labels) {
+    return labels.map((label) => label.replace(/\s/g, '+'));
+}
+
+const labelsFilePath = 
+    process.env.MARINER_LABELS_FILE_PATH ||
+    path.join(__dirname, 'InputFiles', 'issueLabels.json');
+
+logger.info(`Labels:  ${labelsFilePath}`);
+
+const labelsJSON = fs.readFileSync(labelsFilePath, {
+    encoding: 'utf8',
+});
+const formattedLabels = formatLabels(JSON.parse(labelsJSON));
 
 finder
-    .findIssues(token, labels, repositoryIdentifiers)
+    .findIssues(token, formattedLabels, repositoryIdentifiers)
     .then((issues) => {
         let issueCount = 0;
         issues.forEach((issuesForRepo) => {

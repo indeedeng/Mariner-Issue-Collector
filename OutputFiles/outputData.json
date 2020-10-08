@@ -13,12 +13,6 @@
       "url": "https://github.com/depscloud/depscloud/issues/99"
     },
     {
-      "title": "Setup nightly docker image builds",
-      "createdAt": "2020-10-05T15:44:37Z",
-      "repositoryNameWithOwner": "depscloud/depscloud",
-      "url": "https://github.com/depscloud/depscloud/issues/97"
-    },
-    {
       "title": "GoModExtractor should support a retract tag",
       "createdAt": "2020-09-14T15:44:29Z",
       "repositoryNameWithOwner": "depscloud/depscloud",

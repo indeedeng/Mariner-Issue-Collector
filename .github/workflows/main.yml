@@ -21,6 +21,7 @@ jobs:
         env:
           MARINER_GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           MARINER_INPUT_FILE_PATH: "./InputFiles/inputData.json"
+          MARINER_LABELS_FILE_PATH: "./InputFiles/issueLabels.json"
           MARINER_OUTPUT_FILE_PATH: "./OutputFiles/outputData.json"
           MARINER_MARKDOWN_FILE_PATH: "./OutputFiles/githubMarkdown.md"
           MARINER_MAX_ISSUES_AGE: "30"

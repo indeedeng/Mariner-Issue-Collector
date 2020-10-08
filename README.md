@@ -12,7 +12,7 @@ Running the Mariner Issue Collector requires a few steps.
 
 ### Step 1 : Update the list of repos
 
-Update the [inputData](./InputFiles/inputData.json) file with repositories you're interested in. We have successfully tested this file with nearly 10,000 repos, which ran in about 15 minutes. The inputData.json file should be a JSON object with "owner/repo" as key, and a numeric value that represents the "weight" of the repository. Weight is not currently used, but could be used to put the issues in order of importance to you (e.g. how often a dependency is used in your organization).
+Update the [inputData](./InputFiles/inputData.json) file with repositories and the [issueLabels](./InputFiles/issueLabels.json) file with issue labels you're interested in. We have successfully tested this file with nearly 10,000 repos, which ran in about 15 minutes. The inputData.json file should be a JSON object with "owner/repo" as key, and a numeric value that represents the "weight" of the repository. Weight is not currently used, but could be used to put the issues in order of importance to you (e.g. how often a dependency is used in your organization).
 
 ### Step 2 : Set environment variables
 
@@ -20,6 +20,7 @@ At a minimum, the demo app will expect you to have set a MARINER_GITHUB_TOKEN en
 
 ```
 MARINER_GITHUB_TOKEN: Your Auth Token
+MARINER_LABELS_FILE_PATH: "./InputFiles/issueLabels.json"
 MARINER_INPUT_FILE_PATH: "./InputFiles/inputData.json"
 MARINER_OUTPUT_FILE_PATH: "./OutputFiles/outputData.json"
 MARINER_MARKDOWN_FILE_PATH: "./OutputFiles/githubMarkdown.md"

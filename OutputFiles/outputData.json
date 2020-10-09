@@ -13,12 +13,6 @@
       "url": "https://github.com/depscloud/depscloud/issues/99"
     },
     {
-      "title": "GoModExtractor should support a retract tag",
-      "createdAt": "2020-09-14T15:44:29Z",
-      "repositoryNameWithOwner": "depscloud/depscloud",
-      "url": "https://github.com/depscloud/depscloud/issues/69"
-    },
-    {
       "title": "Add `put manifests` command",
       "createdAt": "2020-08-05T21:31:35Z",
       "repositoryNameWithOwner": "depscloud/depscloud",

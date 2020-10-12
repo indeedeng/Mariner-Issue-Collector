@@ -45,6 +45,9 @@ const finder = new mariner.IssueFinder(logger);
 
 function convertToRecord(issues) {
     const record = {};
+    repositoryIdentifiers
+        .sort((a, b) => countsByLibrary[b] - countsByLibrary[a])
+        .map(a => record[a] = [])
     issues.forEach((issuesForRepo, repo) => {
         record[repo] = issuesForRepo;
     });

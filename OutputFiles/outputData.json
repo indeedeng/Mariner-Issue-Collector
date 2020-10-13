@@ -1,37 +1,11 @@
 {
-  "indeedeng/starfish": [
-    {
-      "title": "Switch test suite from Mocha to Jest",
-      "createdAt": "2020-10-12T23:21:25Z",
-      "repositoryNameWithOwner": "indeedeng/starfish",
-      "url": "https://github.com/indeedeng/starfish/issues/59"
-    },
-    {
-      "title": "Allow filtering based on action types within event types",
-      "createdAt": "2020-10-12T22:37:17Z",
-      "repositoryNameWithOwner": "indeedeng/starfish",
-      "url": "https://github.com/indeedeng/starfish/issues/58"
-    },
-    {
-      "title": "Use conditional requests to avoid rate limiting problems",
-      "createdAt": "2020-06-08T22:24:25Z",
-      "repositoryNameWithOwner": "indeedeng/starfish",
-      "url": "https://github.com/indeedeng/starfish/issues/44"
-    },
-    {
-      "title": "Add More Tests",
-      "createdAt": "2019-10-04T02:04:20Z",
-      "repositoryNameWithOwner": "indeedeng/starfish",
-      "url": "https://github.com/indeedeng/starfish/issues/13"
-    },
-    {
-      "title": "Add configuration options to allow filtering of self-owned or employer-owned repositories",
-      "createdAt": "2019-08-20T23:36:58Z",
-      "repositoryNameWithOwner": "indeedeng/starfish",
-      "url": "https://github.com/indeedeng/starfish/issues/10"
-    }
-  ],
   "depscloud/depscloud": [
+    {
+      "title": "Add support for jsonnet-bundler files",
+      "createdAt": "2020-10-13T01:49:55Z",
+      "repositoryNameWithOwner": "depscloud/depscloud",
+      "url": "https://github.com/depscloud/depscloud/issues/115"
+    },
     {
       "title": "Add support for prometheus push gateway to indexer",
       "createdAt": "2020-10-09T18:42:20Z",
@@ -43,12 +17,6 @@
       "createdAt": "2020-10-07T16:41:43Z",
       "repositoryNameWithOwner": "depscloud/depscloud",
       "url": "https://github.com/depscloud/depscloud/issues/100"
-    },
-    {
-      "title": "Set name during extraction",
-      "createdAt": "2020-10-07T16:27:33Z",
-      "repositoryNameWithOwner": "depscloud/depscloud",
-      "url": "https://github.com/depscloud/depscloud/issues/99"
     },
     {
       "title": "Add `put manifests` command",
@@ -109,6 +77,38 @@
       "createdAt": "2019-06-02T14:14:27Z",
       "repositoryNameWithOwner": "depscloud/depscloud",
       "url": "https://github.com/depscloud/depscloud/issues/27"
+    }
+  ],
+  "indeedeng/starfish": [
+    {
+      "title": "Switch test suite from Mocha to Jest",
+      "createdAt": "2020-10-12T23:21:25Z",
+      "repositoryNameWithOwner": "indeedeng/starfish",
+      "url": "https://github.com/indeedeng/starfish/issues/59"
+    },
+    {
+      "title": "Allow filtering based on action types within event types",
+      "createdAt": "2020-10-12T22:37:17Z",
+      "repositoryNameWithOwner": "indeedeng/starfish",
+      "url": "https://github.com/indeedeng/starfish/issues/58"
+    },
+    {
+      "title": "Use conditional requests to avoid rate limiting problems",
+      "createdAt": "2020-06-08T22:24:25Z",
+      "repositoryNameWithOwner": "indeedeng/starfish",
+      "url": "https://github.com/indeedeng/starfish/issues/44"
+    },
+    {
+      "title": "Add More Tests",
+      "createdAt": "2019-10-04T02:04:20Z",
+      "repositoryNameWithOwner": "indeedeng/starfish",
+      "url": "https://github.com/indeedeng/starfish/issues/13"
+    },
+    {
+      "title": "Add configuration options to allow filtering of self-owned or employer-owned repositories",
+      "createdAt": "2019-08-20T23:36:58Z",
+      "repositoryNameWithOwner": "indeedeng/starfish",
+      "url": "https://github.com/indeedeng/starfish/issues/10"
     }
   ],
   "indeedeng/k8dash": [

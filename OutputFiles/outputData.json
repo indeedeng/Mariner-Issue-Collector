@@ -1,4 +1,36 @@
 {
+  "indeedeng/starfish": [
+    {
+      "title": "Switch test suite from Mocha to Jest",
+      "createdAt": "2020-10-12T23:21:25Z",
+      "repositoryNameWithOwner": "indeedeng/starfish",
+      "url": "https://github.com/indeedeng/starfish/issues/59"
+    },
+    {
+      "title": "Allow filtering based on action types within event types",
+      "createdAt": "2020-10-12T22:37:17Z",
+      "repositoryNameWithOwner": "indeedeng/starfish",
+      "url": "https://github.com/indeedeng/starfish/issues/58"
+    },
+    {
+      "title": "Use conditional requests to avoid rate limiting problems",
+      "createdAt": "2020-06-08T22:24:25Z",
+      "repositoryNameWithOwner": "indeedeng/starfish",
+      "url": "https://github.com/indeedeng/starfish/issues/44"
+    },
+    {
+      "title": "Add More Tests",
+      "createdAt": "2019-10-04T02:04:20Z",
+      "repositoryNameWithOwner": "indeedeng/starfish",
+      "url": "https://github.com/indeedeng/starfish/issues/13"
+    },
+    {
+      "title": "Add configuration options to allow filtering of self-owned or employer-owned repositories",
+      "createdAt": "2019-08-20T23:36:58Z",
+      "repositoryNameWithOwner": "indeedeng/starfish",
+      "url": "https://github.com/indeedeng/starfish/issues/10"
+    }
+  ],
   "depscloud/depscloud": [
     {
       "title": "Add support for prometheus push gateway to indexer",
@@ -157,26 +189,6 @@
       "createdAt": "2019-04-12T07:31:13Z",
       "repositoryNameWithOwner": "indeedeng/k8dash",
       "url": "https://github.com/indeedeng/k8dash/issues/14"
-    }
-  ],
-  "indeedeng/starfish": [
-    {
-      "title": "Use conditional requests to avoid rate limiting problems",
-      "createdAt": "2020-06-08T22:24:25Z",
-      "repositoryNameWithOwner": "indeedeng/starfish",
-      "url": "https://github.com/indeedeng/starfish/issues/44"
-    },
-    {
-      "title": "Add More Tests",
-      "createdAt": "2019-10-04T02:04:20Z",
-      "repositoryNameWithOwner": "indeedeng/starfish",
-      "url": "https://github.com/indeedeng/starfish/issues/13"
-    },
-    {
-      "title": "Add configuration options to allow filtering of self-owned or employer-owned repositories",
-      "createdAt": "2019-08-20T23:36:58Z",
-      "repositoryNameWithOwner": "indeedeng/starfish",
-      "url": "https://github.com/indeedeng/starfish/issues/10"
     }
   ]
 }

@@ -1,6 +1,8 @@
-## Updated: October 12, 2020 10:31 PM
+## Updated: October 13, 2020 12:20 AM
 |**Repo**|**Title**|**Age**|
 |:----|:----|:----|
+|**indeedeng/starfish**|[Switch test suite from Mocha to Jest](https://github.com/indeedeng/starfish/issues/59)|0&nbsp;days|
+|**indeedeng/starfish**|[Allow filtering based on action types within event types](https://github.com/indeedeng/starfish/issues/58)|0&nbsp;days|
 |**depscloud/depscloud**|[Add support for prometheus push gateway to indexer](https://github.com/depscloud/depscloud/issues/108)|3&nbsp;days|
 |**depscloud/depscloud**|[Allow names to be used in deps CLI](https://github.com/depscloud/depscloud/issues/100)|5&nbsp;days|
 |**depscloud/depscloud**|[Set name during extraction](https://github.com/depscloud/depscloud/issues/99)|5&nbsp;days|

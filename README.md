@@ -29,24 +29,24 @@ MARINER_MAX_ISSUES_AGE: "30"
 
 ### Step 3 : Run Mariner
 
-Start by installing.
+Start by downloading dependencies:
 
-```
-npm install
+```bash
+npm ci
 ```
 
-Run the findIssues.js script
+Run the findIssues.js script:
 
-```
+```bash
 node findIssues.js
 ```
 
 This will update the [outputData](./OutputFiles/outputData.json) file with any issues that Mariner finds.
 
 
-Optionally, generate markdown based on the new set of issues.
+Optionally, generate markdown based on the new set of issues:
 
-```
+```bash
 node Utilities/generateGitHubMarkdown.js
 ```
 
@@ -54,7 +54,10 @@ This will parse the outputData.json file and update the [githubMarkdown](./Outpu
 
 ## Mariner Issue Collector As A GitHub Action
 
-Mariner ships with a default GitHub Action that runs every 8 hours to generate a fresh issue list. Details are in the [action YAML file](./.github/workflows/main.yml)
+Mariner ships with a default GitHub Action that runs every 8 hours to generate a fresh issue list,
+and commit that issue list back into the GitHub repository.
+Any fork of this repository will automatically include this action,
+as it is triggered by the existance of the [action YAML file](./.github/workflows/main.yml).
 
 ## Getting Help
 

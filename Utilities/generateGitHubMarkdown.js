@@ -20,13 +20,16 @@ var dependencies = {}
 
 function generateMarkdown() {
   markdownArray.push(`## Updated: ${now.format("LLL")}`)
-  markdownArray.push('|**Repo**|**Title**|**Age**|')
-  markdownArray.push('|:----|:----|:----|')
-  for (dependency in dependencies) {
-    for (issue in dependencies[dependency]) {
+  for(dependency in dependencies) {
+    if (!dependencies[dependency].length) continue
+    markdownArray.push('\n')
+    markdownArray.push(`### ${dependency}`)
+    markdownArray.push('|**Title**|**Age**|')
+    markdownArray.push('|:----|:----|')
+    for(issue in dependencies[dependency]) {
       var issueAge = now.diff(moment(dependencies[dependency][issue].createdAt), 'days')
       if (issueAge < maxIssuesAge) {
-        markdownArray.push(`|**${dependency}**|[${dependencies[dependency][issue].title}](${dependencies[dependency][issue].url})|${issueAge}&nbsp;days|`);
+        markdownArray.push(`|[${dependencies[dependency][issue].title}](${dependencies[dependency][issue].url})|${issueAge}&nbsp;days|`);
       }
     }
   }

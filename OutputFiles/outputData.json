@@ -82,6 +82,12 @@
   "fasterxml/jackson": [],
   "indeedeng/starfish": [
     {
+      "title": "Add configuration options to allow filtering of self-owned repositories",
+      "createdAt": "2020-10-16T01:07:36Z",
+      "repositoryNameWithOwner": "indeedeng/starfish",
+      "url": "https://github.com/indeedeng/starfish/issues/65"
+    },
+    {
       "title": "replace Moment.js with Luxon",
       "createdAt": "2020-10-14T01:21:24Z",
       "repositoryNameWithOwner": "indeedeng/starfish",
@@ -110,12 +116,6 @@
       "createdAt": "2019-10-04T02:04:20Z",
       "repositoryNameWithOwner": "indeedeng/starfish",
       "url": "https://github.com/indeedeng/starfish/issues/13"
-    },
-    {
-      "title": "Add configuration options to allow filtering of self-owned or employer-owned repositories",
-      "createdAt": "2019-08-20T23:36:58Z",
-      "repositoryNameWithOwner": "indeedeng/starfish",
-      "url": "https://github.com/indeedeng/starfish/issues/10"
     }
   ],
   "depscloud/depscloud": [
@@ -130,12 +130,6 @@
       "createdAt": "2020-10-09T18:42:20Z",
       "repositoryNameWithOwner": "depscloud/depscloud",
       "url": "https://github.com/depscloud/depscloud/issues/108"
-    },
-    {
-      "title": "Allow names to be used in deps CLI",
-      "createdAt": "2020-10-07T16:41:43Z",
-      "repositoryNameWithOwner": "depscloud/depscloud",
-      "url": "https://github.com/depscloud/depscloud/issues/100"
     },
     {
       "title": "Add `put manifests` command",
@@ -198,5 +192,26 @@
       "url": "https://github.com/depscloud/depscloud/issues/27"
     }
   ],
-  "indeedeng/mariner": []
+  "indeedeng/mariner-issue-collector": [],
+  "indeedeng/mariner": [],
+  "indeedeng/Mariner-Issue-Collector": [
+    {
+      "title": "Write utility script to parse and transform despcloud output",
+      "createdAt": "2020-10-15T18:42:01Z",
+      "repositoryNameWithOwner": "indeedeng/Mariner-Issue-Collector",
+      "url": "https://github.com/indeedeng/Mariner-Issue-Collector/issues/11"
+    },
+    {
+      "title": "Improve the readability of the GitHub Markdown output",
+      "createdAt": "2020-10-13T23:22:56Z",
+      "repositoryNameWithOwner": "indeedeng/Mariner-Issue-Collector",
+      "url": "https://github.com/indeedeng/Mariner-Issue-Collector/issues/9"
+    },
+    {
+      "title": "Update the readme to close documentation gaps.",
+      "createdAt": "2020-09-30T04:24:30Z",
+      "repositoryNameWithOwner": "indeedeng/Mariner-Issue-Collector",
+      "url": "https://github.com/indeedeng/Mariner-Issue-Collector/issues/2"
+    }
+  ]
 }

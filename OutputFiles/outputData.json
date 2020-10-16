@@ -1,6 +1,12 @@
 {
   "indeedeng/starfish": [
     {
+      "title": "Add configuration options to allow filtering of self-owned repositories",
+      "createdAt": "2020-10-16T01:07:36Z",
+      "repositoryNameWithOwner": "indeedeng/starfish",
+      "url": "https://github.com/indeedeng/starfish/issues/65"
+    },
+    {
       "title": "replace Moment.js with Luxon",
       "createdAt": "2020-10-14T01:21:24Z",
       "repositoryNameWithOwner": "indeedeng/starfish",
@@ -29,12 +35,6 @@
       "createdAt": "2019-10-04T02:04:20Z",
       "repositoryNameWithOwner": "indeedeng/starfish",
       "url": "https://github.com/indeedeng/starfish/issues/13"
-    },
-    {
-      "title": "Add configuration options to allow filtering of self-owned or employer-owned repositories",
-      "createdAt": "2019-08-20T23:36:58Z",
-      "repositoryNameWithOwner": "indeedeng/starfish",
-      "url": "https://github.com/indeedeng/starfish/issues/10"
     }
   ],
   "depscloud/depscloud": [

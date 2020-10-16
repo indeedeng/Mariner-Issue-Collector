@@ -132,12 +132,6 @@
       "url": "https://github.com/depscloud/depscloud/issues/108"
     },
     {
-      "title": "Allow names to be used in deps CLI",
-      "createdAt": "2020-10-07T16:41:43Z",
-      "repositoryNameWithOwner": "depscloud/depscloud",
-      "url": "https://github.com/depscloud/depscloud/issues/100"
-    },
-    {
       "title": "Add `put manifests` command",
       "createdAt": "2020-08-05T21:31:35Z",
       "repositoryNameWithOwner": "depscloud/depscloud",

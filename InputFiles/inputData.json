@@ -3,5 +3,6 @@
     "fasterxml/jackson": 20,
     "indeedeng/starfish": 15,
     "depscloud/depscloud": 10,
+    "indeedeng/mariner-issue-collector": 5,
     "indeedeng/mariner": 5
 }

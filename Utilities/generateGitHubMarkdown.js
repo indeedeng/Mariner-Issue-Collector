@@ -19,6 +19,7 @@ var dependencies = {}
     markdownArray = []
 
 function generateMarkdown() {
+  markdownArray.push(`## Updated: ${now.format("LLL")}`)
   markdownArray.push('|**Repo**|**Title**|**Age**|')
   markdownArray.push('|:----|:----|:----|')
   for (dependency in dependencies) {

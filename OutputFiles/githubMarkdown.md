@@ -1,4 +1,4 @@
-## Updated: October 16, 2020 9:13 PM
+## Updated: October 17, 2020 12:20 AM
 
 
 ### indeedeng/k8dash
@@ -14,8 +14,8 @@
 |:----|:----|
 |[Add configuration options to allow filtering of self-owned repositories](https://github.com/indeedeng/starfish/issues/65)|0&nbsp;days|
 |[replace Moment.js with Luxon](https://github.com/indeedeng/starfish/issues/60)|2&nbsp;days|
-|[Switch test suite from Mocha to Jest](https://github.com/indeedeng/starfish/issues/59)|3&nbsp;days|
-|[Allow filtering based on action types within event types](https://github.com/indeedeng/starfish/issues/58)|3&nbsp;days|
+|[Switch test suite from Mocha to Jest](https://github.com/indeedeng/starfish/issues/59)|4&nbsp;days|
+|[Allow filtering based on action types within event types](https://github.com/indeedeng/starfish/issues/58)|4&nbsp;days|
 
 
 ### depscloud/depscloud

@@ -1,9 +1,9 @@
-## Updated: October 19, 2020 8:11 AM
+## Updated: October 19, 2020 4:12 PM
 |**Repo**|**Title**|**Age**|
 |:----|:----|:----|
 |**indeedeng/k8dash**|["Filtering" should support permalinks](https://github.com/indeedeng/k8dash/issues/153)|14&nbsp;days|
 |**indeedeng/k8dash**|[Fix styling of dropdown's in dark mode](https://github.com/indeedeng/k8dash/issues/152)|14&nbsp;days|
-|**indeedeng/k8dash**|[Use "prefers-color-scheme" to automatically switch to Dark Mode](https://github.com/indeedeng/k8dash/issues/144)|16&nbsp;days|
+|**indeedeng/k8dash**|[Use "prefers-color-scheme" to automatically switch to Dark Mode](https://github.com/indeedeng/k8dash/issues/144)|17&nbsp;days|
 |**indeedeng/starfish**|[Add configuration options to allow filtering of self-owned repositories](https://github.com/indeedeng/starfish/issues/65)|3&nbsp;days|
 |**indeedeng/starfish**|[replace Moment.js with Luxon](https://github.com/indeedeng/starfish/issues/60)|5&nbsp;days|
 |**indeedeng/starfish**|[Switch test suite from Mocha to Jest](https://github.com/indeedeng/starfish/issues/59)|6&nbsp;days|

@@ -39,8 +39,4 @@ function gather() {
   return "Success! The file is in the DepsCloud directory"
 }
 
-module.exports = {
-  gather
-};
-
 gather();

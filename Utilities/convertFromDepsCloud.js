@@ -15,10 +15,11 @@ function convert(deps) {
     const fullPath = url.parse(deps[entry].repository_url).pathname;
     var repoScore = deps[entry].score;
     // Assuming all URIs would have a double slash, we follow the slashes to get owner and repo
-    var owner = fullPath.split("/")[1];
-    var repo = fullPath.split("/")[2];
+    repoPath = fullPath.split("/");
+    var owner = repoPath[1];
+    var repo = repoPath[2];
     if (repo.endsWith(".git")) {
-      repo = repo.replace(".git", '');
+      repo = repo.replace(/\.git$/, '');
     }
     repoIdentifier = owner + "/" + repo;
     console.log("** REPO: " + repoIdentifier);

@@ -16,7 +16,7 @@ function convert(deps) {
     const host = depsURL.host
     const fullPath = depsURL.pathname;
     // Using contains here to give a chance to each URL containing 'github.com'
-    if (host.includes("github.com")) {
+    if (host.indexOf("github.com") >= 0) {
       var repoScore = deps[entry].score;
       // Count the slashes
       var slashCount = (fullPath.match(/\//ig) || []).length;

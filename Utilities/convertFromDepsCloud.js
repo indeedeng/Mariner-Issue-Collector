@@ -12,18 +12,32 @@ const depsOutputPath =
 function convert(deps) {
   result = {};
   for(var entry in deps) {
-    const fullPath = url.parse(deps[entry].repository_url).pathname;
-    var repoScore = deps[entry].score;
-    // Assuming all URIs would have a double slash, we follow the slashes to get owner and repo
-    repoPath = fullPath.split("/");
-    var owner = repoPath[1];
-    var repo = repoPath[2];
-    if (repo.endsWith(".git")) {
-      repo = repo.replace(/\.git$/, '');
+    const depsURL = url.parse(deps[entry].repository_url);
+    const host = depsURL.host
+    const fullPath = depsURL.pathname;
+    // Using contains here to give a chance to each URL containing 'github.com'
+    if (host.includes("github.com")) {
+      var repoScore = deps[entry].score;
+      // Count the slashes
+      var slashCount = (fullPath.match(/\//ig) || []).length;
+      // Check if pathname contains at least two slashes
+      if (slashCount >= 2) {
+        // We follow the slashes to get owner and repo
+        repoPath = fullPath.split("/");
+        var owner = repoPath[1];
+        var repo = repoPath[2];
+        if (repo.endsWith(".git")) {
+          repo = repo.replace(/\.git$/, '');
+        }
+        repoIdentifier = owner + "/" + repo;
+        console.log("** REPO: " + repoIdentifier);
+        result[repoIdentifier] = repoScore;
+      } else {
+        console.log("** REPO: " + fullPath + " Skipped - No OWNER REPO pair");
+      }
+    } else {
+      console.log("** REPO: " + fullPath + " Skipped - Not a GitHub URL");
     }
-    repoIdentifier = owner + "/" + repo;
-    console.log("** REPO: " + repoIdentifier);
-    result[repoIdentifier] = repoScore;
   }
   //Final JSON Product
   return result

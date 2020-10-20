@@ -36,7 +36,6 @@ function gather() {
   deps = JSON.parse(depsInput)
   built = convert(deps)
   fs.writeFileSync(depsOutputPath, JSON.stringify(built, null, 4))
-  return "Success! The file is in the DepsCloud directory"
 }
 
 gather();

@@ -2,11 +2,11 @@ const fs = require('fs')
       path = require('path')
 
 const depsInputPath =
-    process.env.MARINER_OUTPUT_FILE_PATH ||
-    path.join(__dirname, '..', 'DepsCloud', 'candidate.json');
+    process.env.MARINER_DEPSCLOUD_INPUT ||
+    path.join(__dirname, '..', 'InputFiles', 'candidate.json');
 const depsOutputPath =
-    process.env.MARINER_MARKDOWN_FILE_PATH ||
-    path.join(__dirname, '..', 'DepsCloud', 'candidate-output.json');
+    process.env.MARINER_DEPSCLOUD_OUTPUT ||
+    path.join(__dirname, '..', 'OutputFiles', 'candidate-converted.json');
 
 function convert(deps) {
   result = {};
@@ -42,3 +42,5 @@ function gather() {
 module.exports = {
   gather
 };
+
+gather();

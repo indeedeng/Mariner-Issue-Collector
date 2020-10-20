@@ -11,7 +11,6 @@ const depsOutputPath =
 function convert(deps) {
   result = {};
   for(var item in deps) {
-    // Format may change?
     var first = deps[item].repository_url;
     var second = deps[item].score;
     // Assuming all URIs would have a double slash, we follow the slashes to get owner and repo

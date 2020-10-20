@@ -15,12 +15,13 @@ function convert(deps) {
     var first = deps[item].repository_url;
     var second = deps[item].score;
     // Assuming all URIs would have a double slash, we follow the slashes to get owner and repo
-    firstpull = first.split("//")[1];
-    cut = firstpull.split("/")[2]
-    if (cut.includes(".git")) {
-      cut = cut.split(".")[0]
+    var pull = first.split("//")[1];
+    var owner = pull.split("/")[1];
+    var repo = pull.split("/")[2];
+    if (repo.includes(".git")) {
+      repo = repo.split(".")[0];
     }
-    first = firstpull.split("/")[1] + "/" + cut;
+    first = owner + "/" + repo;
     console.log("** ITEM: " + first);
     result[first] = second;
   }

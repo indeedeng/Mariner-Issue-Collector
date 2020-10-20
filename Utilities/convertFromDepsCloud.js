@@ -1,5 +1,6 @@
 const fs = require('fs')
       path = require('path')
+      url = require('url')
 
 const depsInputPath =
     process.env.MARINER_DEPSCLOUD_INPUT ||
@@ -10,19 +11,18 @@ const depsOutputPath =
 
 function convert(deps) {
   result = {};
-  for(var item in deps) {
-    var first = deps[item].repository_url;
-    var second = deps[item].score;
+  for(var entry in deps) {
+    const fullPath = url.parse(deps[entry].repository_url).pathname;
+    var repoScore = deps[entry].score;
     // Assuming all URIs would have a double slash, we follow the slashes to get owner and repo
-    var pull = first.split("//")[1];
-    var owner = pull.split("/")[1];
-    var repo = pull.split("/")[2];
-    if (repo.includes(".git")) {
-      repo = repo.split(".")[0];
+    var owner = fullPath.split("/")[1];
+    var repo = fullPath.split("/")[2];
+    if (repo.endsWith(".git")) {
+      repo = repo.replace(".git", '');
     }
-    first = owner + "/" + repo;
-    console.log("** ITEM: " + first);
-    result[first] = second;
+    repoIdentifier = owner + "/" + repo;
+    console.log("** REPO: " + repoIdentifier);
+    result[repoIdentifier] = repoScore;
   }
   //Final JSON Product
   return result
@@ -34,8 +34,8 @@ function gather() {
     encoding: 'utf8',
   })
   deps = JSON.parse(depsInput)
-  built = convert(deps)
-  fs.writeFileSync(depsOutputPath, JSON.stringify(built, null, 4))
+  builtJSON = convert(deps)
+  fs.writeFileSync(depsOutputPath, JSON.stringify(builtJSON, null, 4))
 }
 
 gather();

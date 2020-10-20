@@ -25,7 +25,7 @@ function convert(deps) {
     result[first] = second;
   }
   //Final JSON Product
-  return JSON.stringify(result, null, 4)
+  return result
 }
 
 //Read file, send it out,and get it back
@@ -35,7 +35,7 @@ function gather() {
   })
   deps = JSON.parse(depsInput)
   built = convert(deps)
-  fs.writeFileSync(depsOutputPath, built)
+  fs.writeFileSync(depsOutputPath, JSON.stringify(built, null, 4))
   return "Success! The file is in the DepsCloud directory"
 }
 

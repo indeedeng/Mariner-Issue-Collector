@@ -1,0 +1,22 @@
+[
+  {
+    "repository_url": "https://github.com/indeedeng/k8dash",
+    "score": 25
+  },
+  {
+    "repository_url": "https://github.com/fasterxml/jackson",
+    "score": 20
+  },
+  {
+    "repository_url": "https://github.com/indeedeng/starfish",
+    "score": 15
+  },
+  {
+    "repository_url": "https://github.com/depscloud/depscloud",
+    "score": 10
+  },
+  {
+    "repository_url": "https://github.com/indeedeng/mariner",
+    "score": 5
+  }
+]

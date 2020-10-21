@@ -3,7 +3,6 @@ const fs = require('fs')
       moment = require('moment')
       mariner = require('oss-mariner')
 
-
 function getFromEnvOrThrow(configField) {
     const value = process.env[configField];
     if (!value) {

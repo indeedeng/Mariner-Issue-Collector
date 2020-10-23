@@ -94,12 +94,6 @@
       "url": "https://github.com/indeedeng/starfish/issues/60"
     },
     {
-      "title": "Switch test suite from Mocha to Jest",
-      "createdAt": "2020-10-12T23:21:25Z",
-      "repositoryNameWithOwner": "indeedeng/starfish",
-      "url": "https://github.com/indeedeng/starfish/issues/59"
-    },
-    {
       "title": "Allow filtering based on action types within event types",
       "createdAt": "2020-10-12T22:37:17Z",
       "repositoryNameWithOwner": "indeedeng/starfish",
@@ -195,6 +189,36 @@
   "indeedeng/mariner-issue-collector": [],
   "indeedeng/mariner": [],
   "indeedeng/Mariner-Issue-Collector": [
+    {
+      "title": "Catalog potential sources of dependency information.",
+      "createdAt": "2020-10-22T21:59:51Z",
+      "repositoryNameWithOwner": "indeedeng/Mariner-Issue-Collector",
+      "url": "https://github.com/indeedeng/Mariner-Issue-Collector/issues/19"
+    },
+    {
+      "title": "Create a convertFromWhiteSource.js utility",
+      "createdAt": "2020-10-22T21:54:36Z",
+      "repositoryNameWithOwner": "indeedeng/Mariner-Issue-Collector",
+      "url": "https://github.com/indeedeng/Mariner-Issue-Collector/issues/18"
+    },
+    {
+      "title": "Create a generateConfluenceMarkdown.js utility",
+      "createdAt": "2020-10-22T21:51:56Z",
+      "repositoryNameWithOwner": "indeedeng/Mariner-Issue-Collector",
+      "url": "https://github.com/indeedeng/Mariner-Issue-Collector/issues/17"
+    },
+    {
+      "title": "Create a simple generateHtml.js utility",
+      "createdAt": "2020-10-22T21:49:37Z",
+      "repositoryNameWithOwner": "indeedeng/Mariner-Issue-Collector",
+      "url": "https://github.com/indeedeng/Mariner-Issue-Collector/issues/16"
+    },
+    {
+      "title": "Update gh-pages landing page to show found issues.",
+      "createdAt": "2020-10-22T21:44:48Z",
+      "repositoryNameWithOwner": "indeedeng/Mariner-Issue-Collector",
+      "url": "https://github.com/indeedeng/Mariner-Issue-Collector/issues/15"
+    },
     {
       "title": "Update the readme to close documentation gaps.",
       "createdAt": "2020-09-30T04:24:30Z",

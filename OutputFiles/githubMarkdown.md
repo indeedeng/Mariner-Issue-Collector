@@ -3,7 +3,7 @@
 
 ### indeedeng/k8dash
 |**Title**|**Age**|
-|:----|:----|
+|:---|:---|
 |["Filtering" should support permalinks](https://github.com/indeedeng/k8dash/issues/153)|18&nbsp;days|
 |[Fix styling of dropdown's in dark mode](https://github.com/indeedeng/k8dash/issues/152)|18&nbsp;days|
 |[Use "prefers-color-scheme" to automatically switch to Dark Mode](https://github.com/indeedeng/k8dash/issues/144)|21&nbsp;days|

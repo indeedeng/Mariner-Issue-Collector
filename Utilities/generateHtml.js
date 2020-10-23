@@ -20,42 +20,45 @@ var dependencies = {}
 
 
 function generateHTML() {
-  htmlContent += `
-      <style>
-        table {
-          border-collapse: collapse;
-          width: auto;
-          max-width: 100%;
-          margin-bottom: 20px;
-          border: 1px solid #ddd;
-        }
-        td {
-          border: 1px solid #ddd;
-          padding: 8px;
+  htmlContent += `<!DOCTYPE html>
+  <html>
+  <head>
+    <title>Issues by Mariner-Issue-Collector</title>
+    <style>
+      table {
+        border-collapse: collapse;
+        width: auto;
+        max-width: 100%;
+        margin-bottom: 20px;
+        border: 1px solid #ddd;
+      }
+      td {
+        border: 1px solid #ddd;
+        padding: 8px;
+      }
+      th {
+        padding: 8px;
+        line-height: 1.4285714;
+        border: 1px solid #ddd;
+      }
+      td, th {
+        border: 1px solid #dddddd;
+        text-align: left;
+        padding: 8px;
+      }
+      tr:nth-child(even) {
+        background-color: #f9f9f9;
+      }
+    </style>
+  </head>
+  <body>
+  `;
 
-        }
-        th {
-          padding: 8px;
-          line-height: 1.4285714;
-          border: 1px solid #ddd;
-        }
-        td, th {
-          border: 1px solid #dddddd;
-          text-align: left;
-          padding: 8px;
-        }
-        
-        tr:nth-child(even) {
-          background-color: #f9f9f9;
-        }
-
-      </style>
-    `;
   htmlContent += `<h2 class="code-line" data-line-start=0 data-line-end=1 >
       <a id="Updated_${now.format("LLL")}"></a>
         Updated: ${now.format("LLL")}
-    </h2>
-    `;
+  </h2>
+  `;
 
   for(dependency in dependencies) {
     if (!dependencies[dependency].length) continue
@@ -71,7 +74,8 @@ function generateHTML() {
           <th style="text-align:left"><strong>Age</strong></th>
         </tr>
       </thead>
-      <tbody>`;
+      <tbody>
+      `;
 
     for(issue in dependencies[dependency]) {
       var issueAge = now.diff(moment(dependencies[dependency][issue].createdAt), 'days')
@@ -90,6 +94,9 @@ function generateHTML() {
     </table>
     `;
   }
+
+  htmlContent += `</body>
+  </html>`
 }
 
 

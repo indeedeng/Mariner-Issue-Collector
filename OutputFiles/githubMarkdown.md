@@ -1,4 +1,4 @@
-## Updated: October 25, 2020 8:08 AM
+## Updated: October 25, 2020 4:10 PM
 
 
 ### indeedeng/k8dash
@@ -6,7 +6,7 @@
 |:----|:----|
 |["Filtering" should support permalinks](https://github.com/indeedeng/k8dash/issues/153)|20&nbsp;days|
 |[Fix styling of dropdown's in dark mode](https://github.com/indeedeng/k8dash/issues/152)|20&nbsp;days|
-|[Use "prefers-color-scheme" to automatically switch to Dark Mode](https://github.com/indeedeng/k8dash/issues/144)|22&nbsp;days|
+|[Use "prefers-color-scheme" to automatically switch to Dark Mode](https://github.com/indeedeng/k8dash/issues/144)|23&nbsp;days|
 
 
 ### indeedeng/starfish

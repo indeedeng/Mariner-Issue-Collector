@@ -52,6 +52,14 @@ node Utilities/generateGitHubMarkdown.js
 
 This will parse the outputData.json file and update the [githubMarkdown](./OutputFiles/githubMarkdown.md) with a list of issues that can be easily viewed on GitHub.
 
+Or generate markdown for use in Confluence/Jira:
+
+```bash
+node Utilities/generateConfluenceMarkdown.js
+```
+
+In Jira, simply copy and paste the contents of [confluenceMarkdown](./OutputFiles/confluenceMarkdown.md) into the text mode of the editor.
+
 Also, generate static HTML file that shows the new issues:
 
 ```bash

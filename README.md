@@ -52,6 +52,14 @@ node Utilities/generateGitHubMarkdown.js
 
 This will parse the outputData.json file and update the [githubMarkdown](./OutputFiles/githubMarkdown.md) with a list of issues that can be easily viewed on GitHub.
 
+Also, generate static HTML file that shows the new issues:
+
+```bash
+node Utilities/generateHtml.js
+```
+
+This will parse the outputData.json file and update the [Issues.html](./OutputFiles/Issues.html) with the list of issues.
+
 ## Mariner Issue Collector As A GitHub Action
 
 Mariner ships with a default GitHub Action that runs every 8 hours to generate a fresh issue list,

@@ -60,6 +60,14 @@ node Utilities/generateConfluenceMarkdown.js
 
 In Jira, simply copy and paste the contents of [confluenceMarkdown](./OutputFiles/confluenceMarkdown.md) into the text mode of the editor.
 
+Also, generate static HTML file that shows the new issues:
+
+```bash
+node Utilities/generateHtml.js
+```
+
+This will parse the outputData.json file and update the [Issues.html](./OutputFiles/Issues.html) with the list of issues.
+
 ## Mariner Issue Collector As A GitHub Action
 
 Mariner ships with a default GitHub Action that runs every 8 hours to generate a fresh issue list,

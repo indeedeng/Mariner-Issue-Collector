@@ -9,4 +9,4 @@
 |Fossa|unsupported|Automate open source dependency management and security|[Fossa Documentation](https://docs.fossa.com/docs/running-a-scan)|
 |Debricked|unsupported|Automate identification of open source vulnerabilities|[Debricked Documentation](https://debricked.com/documentation/solve-your-first-vulnerability/solve-a-vulnerability.html)|
 |ReadyAPI|unsupported|Automated API testing platform|[ReadyAPI Documentation](https://support.smartbear.com/readyapi/docs/general-info/index.html)|
-|Nexus Repository Manager|unsupported|Artifact repository that manages dependencies for open source software|[Repo Manager Documentation](https://help.sonatype.com/repomanager3)|
+|Nexus Repository Manager|unsupported|Artifact repository that manages dependencies for open source software|[Repo Manager Documentation](https://help.sonatype.com/repomanager3/user-interface/browsing-repositories-and-repository-groups)|

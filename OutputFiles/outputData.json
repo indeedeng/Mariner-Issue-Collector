@@ -82,6 +82,12 @@
   "fasterxml/jackson": [],
   "indeedeng/starfish": [
     {
+      "title": "Add alt text to images",
+      "createdAt": "2020-10-26T21:35:55Z",
+      "repositoryNameWithOwner": "indeedeng/starfish",
+      "url": "https://github.com/indeedeng/starfish/issues/75"
+    },
+    {
       "title": "Add configuration options to allow filtering of self-owned repositories",
       "createdAt": "2020-10-16T01:07:36Z",
       "repositoryNameWithOwner": "indeedeng/starfish",
@@ -206,12 +212,6 @@
       "createdAt": "2020-10-22T21:51:56Z",
       "repositoryNameWithOwner": "indeedeng/Mariner-Issue-Collector",
       "url": "https://github.com/indeedeng/Mariner-Issue-Collector/issues/17"
-    },
-    {
-      "title": "Create a simple generateHtml.js utility",
-      "createdAt": "2020-10-22T21:49:37Z",
-      "repositoryNameWithOwner": "indeedeng/Mariner-Issue-Collector",
-      "url": "https://github.com/indeedeng/Mariner-Issue-Collector/issues/16"
     },
     {
       "title": "Update gh-pages landing page to show found issues.",

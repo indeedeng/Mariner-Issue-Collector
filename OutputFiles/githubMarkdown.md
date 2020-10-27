@@ -1,4 +1,4 @@
-## Updated: October 27, 2020 12:22 AM
+## Updated: October 27, 2020 8:09 AM
 
 
 ### indeedeng/k8dash
@@ -12,16 +12,15 @@
 ### indeedeng/starfish
 |**Title**|**Age**|
 |:----|:----|
-|[Add alt text to images](https://github.com/indeedeng/starfish/issues/75)|0&nbsp;days|
-|[Add configuration options to allow filtering of self-owned repositories](https://github.com/indeedeng/starfish/issues/65)|10&nbsp;days|
-|[replace Moment.js with Luxon](https://github.com/indeedeng/starfish/issues/60)|12&nbsp;days|
+|[Add configuration options to allow filtering of self-owned repositories](https://github.com/indeedeng/starfish/issues/65)|11&nbsp;days|
+|[replace Moment.js with Luxon](https://github.com/indeedeng/starfish/issues/60)|13&nbsp;days|
 |[Allow filtering based on action types within event types](https://github.com/indeedeng/starfish/issues/58)|14&nbsp;days|
 
 
 ### depscloud/depscloud
 |**Title**|**Age**|
 |:----|:----|
-|[Add support for jsonnet-bundler files](https://github.com/depscloud/depscloud/issues/115)|13&nbsp;days|
+|[Add support for jsonnet-bundler files](https://github.com/depscloud/depscloud/issues/115)|14&nbsp;days|
 |[Add support for prometheus push gateway to indexer](https://github.com/depscloud/depscloud/issues/108)|17&nbsp;days|
 
 
@@ -32,4 +31,4 @@
 |[Create a convertFromWhiteSource.js utility](https://github.com/indeedeng/Mariner-Issue-Collector/issues/18)|4&nbsp;days|
 |[Create a generateConfluenceMarkdown.js utility](https://github.com/indeedeng/Mariner-Issue-Collector/issues/17)|4&nbsp;days|
 |[Update gh-pages landing page to show found issues.](https://github.com/indeedeng/Mariner-Issue-Collector/issues/15)|4&nbsp;days|
-|[Update the readme to close documentation gaps.](https://github.com/indeedeng/Mariner-Issue-Collector/issues/2)|26&nbsp;days|
+|[Update the readme to close documentation gaps.](https://github.com/indeedeng/Mariner-Issue-Collector/issues/2)|27&nbsp;days|

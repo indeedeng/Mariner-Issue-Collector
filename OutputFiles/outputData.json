@@ -82,12 +82,6 @@
   "fasterxml/jackson": [],
   "indeedeng/starfish": [
     {
-      "title": "Add alt text to images",
-      "createdAt": "2020-10-26T21:35:55Z",
-      "repositoryNameWithOwner": "indeedeng/starfish",
-      "url": "https://github.com/indeedeng/starfish/issues/75"
-    },
-    {
       "title": "Add configuration options to allow filtering of self-owned repositories",
       "createdAt": "2020-10-16T01:07:36Z",
       "repositoryNameWithOwner": "indeedeng/starfish",

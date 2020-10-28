@@ -87,7 +87,7 @@ and commit that issue list back into the GitHub repository.
 Any fork of this repository will automatically include this action,
 as it is triggered by the existence of the [action YAML file](./.github/workflows/main.yml).
 
-##Use Mariner Issue Collector In A Private Repo
+## Use Mariner Issue Collector In A Private Repo
 
 To use the demo app in a private repo, you will need to add an SSH key to Mariner Issue Collector that has read access to the private repository.
 

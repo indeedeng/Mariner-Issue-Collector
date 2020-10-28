@@ -22,7 +22,7 @@ The numerical weights assigned to each repo in the inputData.json file determine
 
 The greatest weight appears first, then results continue in descending order. If all weights are equal the results appear in the order they are listed in the inputData.json object.
 
-GitHub paginates results in sets of 30. You can specify a different amount up to 100.
+GitHub paginates results in sets of 30. Different amounts can be specified up to 100.
 
 ### Step 2 : Set environment variables
 
@@ -86,6 +86,10 @@ Mariner ships with a default GitHub Action that runs every 8 hours to generate a
 and commit that issue list back into the GitHub repository.
 Any fork of this repository will automatically include this action,
 as it is triggered by the existence of the [action YAML file](./.github/workflows/main.yml).
+
+##Use Mariner Issue Collector In A Private Repo
+
+To use the demo app in a private repo, you will need to add an SSH key to Mariner Issue Collector that has read access to the private repository.
 
 ## Getting Help
 

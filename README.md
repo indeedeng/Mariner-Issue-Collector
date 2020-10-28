@@ -51,8 +51,7 @@ node findIssues.js
 
 This will update the [outputData](./OutputFiles/outputData.json) file with any issues that Mariner finds.
 
-GitHub will paginate results in sets of 30. Different amounts can be specified up to 100.
-
+The query will return only the data that you specify in the input files. GitHub will automatically paginate results in sets of 30. Different amounts can be specified up to 100.
 
 Optionally, generate markdown based on the new set of issues:
 

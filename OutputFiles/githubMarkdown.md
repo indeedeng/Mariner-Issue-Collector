@@ -1,4 +1,4 @@
-## Updated: October 28, 2020 8:09 AM
+## Updated: October 28, 2020 4:12 PM
 
 
 ### indeedeng/k8dash
@@ -6,7 +6,7 @@
 |:----|:----|
 |["Filtering" should support permalinks](https://github.com/indeedeng/k8dash/issues/153)|23&nbsp;days|
 |[Fix styling of dropdown's in dark mode](https://github.com/indeedeng/k8dash/issues/152)|23&nbsp;days|
-|[Use "prefers-color-scheme" to automatically switch to Dark Mode](https://github.com/indeedeng/k8dash/issues/144)|25&nbsp;days|
+|[Use "prefers-color-scheme" to automatically switch to Dark Mode](https://github.com/indeedeng/k8dash/issues/144)|26&nbsp;days|
 
 
 ### indeedeng/starfish
@@ -20,6 +20,7 @@
 ### depscloud/depscloud
 |**Title**|**Age**|
 |:----|:----|
+|[Support outputting topology queries to a file](https://github.com/depscloud/depscloud/issues/135)|0&nbsp;days|
 |[Add support for jsonnet-bundler files](https://github.com/depscloud/depscloud/issues/115)|15&nbsp;days|
 |[Add support for prometheus push gateway to indexer](https://github.com/depscloud/depscloud/issues/108)|18&nbsp;days|
 

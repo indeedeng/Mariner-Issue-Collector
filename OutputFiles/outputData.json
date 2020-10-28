@@ -114,6 +114,12 @@
   ],
   "depscloud/depscloud": [
     {
+      "title": "Support outputting topology queries to a file",
+      "createdAt": "2020-10-28T14:31:30Z",
+      "repositoryNameWithOwner": "depscloud/depscloud",
+      "url": "https://github.com/depscloud/depscloud/issues/135"
+    },
+    {
       "title": "Add support for jsonnet-bundler files",
       "createdAt": "2020-10-13T01:49:55Z",
       "repositoryNameWithOwner": "depscloud/depscloud",

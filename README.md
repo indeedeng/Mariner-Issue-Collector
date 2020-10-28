@@ -12,7 +12,15 @@ Running the Mariner Issue Collector requires a few steps.
 
 ### Step 1 : Update the list of repos
 
-Update the [inputData](./InputFiles/inputData.json) file with repositories and the [issueLabels](./InputFiles/issueLabels.json) file with issue labels you're interested in. We have successfully tested this file with nearly 10,000 repos, which ran in about 15 minutes. The inputData.json file should be a JSON object with "owner/repo" as key, and a numeric value that represents the "weight" of the repository. Weight is not currently used, but could be used to put the issues in order of importance to you (e.g. how often a dependency is used in your organization).
+Update the [inputData](./InputFiles/inputData.json) file with repositories and the [issueLabels](./InputFiles/issueLabels.json) file with issue labels you're interested in. We have successfully tested this file with nearly 10,000 repos, which ran in about 15 minutes. 
+
+The inputData.json file should be a JSON object with "owner/repo" as key, and a numeric value that represents the "weight" of the repository. 
+
+The issueLabels.json file should be a JSON array containing search terms as strings.
+
+The numerical weights assigned to each repo in the inputData.json file determine the order in which the results are listed. Weight should be assigned according to importance to you (e.g. how often a dependency is used in your organization).
+
+The greatest weight appears first, then the results continue in descending order.
 
 ### Step 2 : Set environment variables
 

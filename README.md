@@ -20,7 +20,9 @@ The issueLabels.json file should be a JSON array containing search terms as stri
 
 The numerical weights assigned to each repo in the inputData.json file determine the order in which the results are listed. Weight should be assigned according to importance to you (e.g. how often a dependency is used in your organization).
 
-The greatest weight appears first, then the results continue in descending order.
+The greatest weight appears first, then results continue in descending order. If all weights are equal the results appear in the order they are listed in the inputData.json object.
+
+GitHub paginates results in sets of 30. You can specify a different amount up to 100.
 
 ### Step 2 : Set environment variables
 

@@ -85,7 +85,7 @@ This will parse the outputData.json file and update the [Issues.html](./OutputFi
 Mariner ships with a default GitHub Action that runs every 8 hours to generate a fresh issue list,
 and commit that issue list back into the GitHub repository.
 Any fork of this repository will automatically include this action,
-as it is triggered by the existance of the [action YAML file](./.github/workflows/main.yml).
+as it is triggered by the existence of the [action YAML file](./.github/workflows/main.yml).
 
 ## Getting Help
 

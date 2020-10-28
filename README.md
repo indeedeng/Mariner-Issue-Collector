@@ -37,6 +37,8 @@ MARINER_MARKDOWN_FILE_PATH: "./OutputFiles/githubMarkdown.md"
 MARINER_MAX_ISSUES_AGE: "30"
 ```
 
+MARINER_MAX_ISSUES_AGE sets a limit on the age of issues to be returned, measured in days. You can change it to reflect your desired scope.
+
 ### Step 3 : Run Mariner
 
 Start by downloading dependencies:

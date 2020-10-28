@@ -18,7 +18,7 @@ The inputData.json file should be a JSON object with "owner/repo" as key, and a 
 
 The issueLabels.json file should be a JSON array containing search terms as strings.
 
-The numerical weights assigned to each repo in the inputData.json file determine the order in which the results are listed. Weight should be assigned according to importance to you (e.g. how often a dependency is used in your organization). The greatest weight appears first, then results continue in descending order. If all weights are equal the results appear in the order they are listed in the inputData.json object.
+The numerical weights assigned to each repo in the inputData.json file determine the order in which results are listed. Weight should be assigned according to importance to you (e.g. how often a dependency is used in your organization). Results are returned in descending order with the greatest weight listed first. If all weights are equal the results appear in the order they appear in the inputData.json object.
 
 ### Step 2 : Set environment variables
 

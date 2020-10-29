@@ -86,7 +86,7 @@ as it is triggered by the existence of the [action YAML file](./.github/workflow
 
 ## Use Mariner Issue Collector In A Private Repo
 
-To use the demo app in a private repo, you will need to create a bare clone of the public project in a private repo. (On GitHub you will need a Pro account to set a repo to private.)
+To use the demo app in a private repo, you will need to create a bare clone of the public project in a private repo.
 
 ```
 git clone --bare https://github.com/indeedeng/Mariner-Issue-Collector

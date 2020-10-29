@@ -16,7 +16,7 @@ Update the [inputData](./InputFiles/inputData.json) file with repositories and t
 
 The inputData.json file should be a JSON object with "owner/repo" as key, and a numeric value that represents the "weight" of the repository. 
 
-The issueLabels.json file should be a JSON array containing search terms as strings.
+The issueLabels.json file should be a JSON array containing issue labels as strings.
 
 The numerical weights assigned to each repo in the inputData.json file determine the order in which results are listed. Weight should be assigned according to importance to you (e.g. how often a dependency is used in your organization). Results are returned in descending order with the greatest weight listed first. If all weights are equal the results will be listed in the order they appear in the inputData.json object.
 

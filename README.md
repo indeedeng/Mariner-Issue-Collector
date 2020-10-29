@@ -12,7 +12,13 @@ Running the Mariner Issue Collector requires a few steps.
 
 ### Step 1 : Update the list of repos
 
-Update the [inputData](./InputFiles/inputData.json) file with repositories and the [issueLabels](./InputFiles/issueLabels.json) file with issue labels you're interested in. We have successfully tested this file with nearly 10,000 repos, which ran in about 15 minutes. The inputData.json file should be a JSON object with "owner/repo" as key, and a numeric value that represents the "weight" of the repository. Weight is not currently used, but could be used to put the issues in order of importance to you (e.g. how often a dependency is used in your organization).
+Update the [inputData](./InputFiles/inputData.json) file with repositories and the [issueLabels](./InputFiles/issueLabels.json) file with issue labels you're interested in. We have successfully tested this file with nearly 10,000 repos, which ran in about 15 minutes. 
+
+The inputData.json file should be a JSON object with "owner/repo" as key, and a numeric value that represents the "weight" of the repository. 
+
+The issueLabels.json file should be a JSON array containing issue labels as strings.
+
+The numerical weights assigned to each repo in the inputData.json file determine the order in which results are listed. Weight should be assigned according to importance to you (e.g. how often a dependency is used in your organization). Results are returned in descending order with the greatest weight listed first. If all weights are equal the results will be listed in the order they appear in the inputData.json object.
 
 ### Step 2 : Set environment variables
 
@@ -26,6 +32,8 @@ MARINER_OUTPUT_FILE_PATH: "./OutputFiles/outputData.json"
 MARINER_MARKDOWN_FILE_PATH: "./OutputFiles/githubMarkdown.md"
 MARINER_MAX_ISSUES_AGE: "30"
 ```
+
+MARINER_MAX_ISSUES_AGE sets a limit on the age of issues to be returned, measured in days. You can change it to reflect your desired scope.
 
 ### Step 3 : Run Mariner
 
@@ -43,6 +51,7 @@ node findIssues.js
 
 This will update the [outputData](./OutputFiles/outputData.json) file with any issues that Mariner finds.
 
+The query will return only the data that you specify in the input files. GitHub will automatically paginate results in sets of 30. Mariner will then walk through the paginated results.
 
 Optionally, generate markdown based on the new set of issues:
 
@@ -73,7 +82,35 @@ This will parse the outputData.json file and update the [Issues.html](./OutputFi
 Mariner ships with a default GitHub Action that runs every 8 hours to generate a fresh issue list,
 and commit that issue list back into the GitHub repository.
 Any fork of this repository will automatically include this action,
-as it is triggered by the existance of the [action YAML file](./.github/workflows/main.yml).
+as it is triggered by the existence of the [action YAML file](./.github/workflows/main.yml).
+
+## Use Mariner Issue Collector In A Private Repo
+
+To use the demo app in a private repo, you will need to create a bare clone of the public project.
+
+```
+git clone --bare https://github.com/indeedeng/Mariner-Issue-Collector
+```
+
+Next, you will need to move into the clone directory and mirror-push to your private repository.
+
+```
+cd Mariner-Issue-Collector.git
+git push --mirror https://github.com/YourUserName/YourPrivateRepo
+```
+
+You can then remove the public clone.
+
+```
+cd ..
+rm -rf Mariner-Issue-Collector.git
+```
+
+Finally, clone the private repo on your local machine to begin using.
+
+```
+git clone https://github.com/YourUserName/YourPrivateRepo
+```
 
 ## Getting Help
 

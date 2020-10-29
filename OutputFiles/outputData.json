@@ -114,6 +114,18 @@
   ],
   "depscloud/depscloud": [
     {
+      "title": "Add support for global ignore directories",
+      "createdAt": "2020-10-28T16:47:28Z",
+      "repositoryNameWithOwner": "depscloud/depscloud",
+      "url": "https://github.com/depscloud/depscloud/issues/137"
+    },
+    {
+      "title": "Support outputting topology queries to a file",
+      "createdAt": "2020-10-28T14:31:30Z",
+      "repositoryNameWithOwner": "depscloud/depscloud",
+      "url": "https://github.com/depscloud/depscloud/issues/135"
+    },
+    {
       "title": "Add support for jsonnet-bundler files",
       "createdAt": "2020-10-13T01:49:55Z",
       "repositoryNameWithOwner": "depscloud/depscloud",
@@ -202,12 +214,6 @@
       "url": "https://github.com/indeedeng/Mariner-Issue-Collector/issues/18"
     },
     {
-      "title": "Create a generateConfluenceMarkdown.js utility",
-      "createdAt": "2020-10-22T21:51:56Z",
-      "repositoryNameWithOwner": "indeedeng/Mariner-Issue-Collector",
-      "url": "https://github.com/indeedeng/Mariner-Issue-Collector/issues/17"
-    },
-    {
       "title": "Update gh-pages landing page to show found issues.",
       "createdAt": "2020-10-22T21:44:48Z",
       "repositoryNameWithOwner": "indeedeng/Mariner-Issue-Collector",
@@ -218,6 +224,14 @@
       "createdAt": "2020-09-30T04:24:30Z",
       "repositoryNameWithOwner": "indeedeng/Mariner-Issue-Collector",
       "url": "https://github.com/indeedeng/Mariner-Issue-Collector/issues/2"
+    }
+  ],
+  "indeedeng/Mariner": [
+    {
+      "title": "Save issue Labels with issues returned by IssueFinder.findIssues",
+      "createdAt": "2020-10-13T23:39:58Z",
+      "repositoryNameWithOwner": "indeedeng/Mariner",
+      "url": "https://github.com/indeedeng/Mariner/issues/51"
     }
   ]
 }

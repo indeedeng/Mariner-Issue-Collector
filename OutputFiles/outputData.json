@@ -82,6 +82,12 @@
   "fasterxml/jackson": [],
   "indeedeng/starfish": [
     {
+      "title": "Provide default values for most configuration options",
+      "createdAt": "2020-10-28T17:10:05Z",
+      "repositoryNameWithOwner": "indeedeng/starfish",
+      "url": "https://github.com/indeedeng/starfish/issues/78"
+    },
+    {
       "title": "Add configuration options to allow filtering of self-owned repositories",
       "createdAt": "2020-10-16T01:07:36Z",
       "repositoryNameWithOwner": "indeedeng/starfish",

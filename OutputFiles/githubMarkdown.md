@@ -1,4 +1,4 @@
-## Updated: November 1, 2020 12:14 AM
+## Updated: November 1, 2020 8:05 AM
 
 
 ### indeedeng/k8dash
@@ -13,8 +13,8 @@
 |**Title**|**Age**|
 |:----|:----|
 |[Provide default values for most configuration options](https://github.com/indeedeng/starfish/issues/78)|3&nbsp;days|
-|[Add configuration options to allow filtering of self-owned repositories](https://github.com/indeedeng/starfish/issues/65)|15&nbsp;days|
-|[replace Moment.js with Luxon](https://github.com/indeedeng/starfish/issues/60)|17&nbsp;days|
+|[Add configuration options to allow filtering of self-owned repositories](https://github.com/indeedeng/starfish/issues/65)|16&nbsp;days|
+|[replace Moment.js with Luxon](https://github.com/indeedeng/starfish/issues/60)|18&nbsp;days|
 |[Allow filtering based on action types within event types](https://github.com/indeedeng/starfish/issues/58)|19&nbsp;days|
 
 
@@ -23,7 +23,7 @@
 |:----|:----|
 |[Add support for global ignore directories](https://github.com/depscloud/depscloud/issues/137)|3&nbsp;days|
 |[Support outputting topology queries to a file](https://github.com/depscloud/depscloud/issues/135)|3&nbsp;days|
-|[Add support for jsonnet-bundler files](https://github.com/depscloud/depscloud/issues/115)|18&nbsp;days|
+|[Add support for jsonnet-bundler files](https://github.com/depscloud/depscloud/issues/115)|19&nbsp;days|
 |[Add support for prometheus push gateway to indexer](https://github.com/depscloud/depscloud/issues/108)|22&nbsp;days|
 
 

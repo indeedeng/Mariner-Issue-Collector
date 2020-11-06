@@ -1,4 +1,4 @@
-## Updated: November 6, 2020 8:06 AM
+## Updated: November 6, 2020 4:11 PM
 
 
 ### indeedeng/starfish
@@ -14,7 +14,7 @@
 |**Title**|**Age**|
 |:----|:----|
 |[Add support for global ignore directories](https://github.com/depscloud/depscloud/issues/137)|8&nbsp;days|
-|[Support outputting topology queries to a file](https://github.com/depscloud/depscloud/issues/135)|8&nbsp;days|
+|[Support outputting topology queries to a file](https://github.com/depscloud/depscloud/issues/135)|9&nbsp;days|
 |[Add support for jsonnet-bundler files](https://github.com/depscloud/depscloud/issues/115)|24&nbsp;days|
 |[Add support for prometheus push gateway to indexer](https://github.com/depscloud/depscloud/issues/108)|27&nbsp;days|
 

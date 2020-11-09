@@ -1,4 +1,4 @@
-## Updated: November 9, 2020 8:07 AM
+## Updated: November 9, 2020 4:12 PM
 
 
 ### indeedeng/starfish
@@ -14,7 +14,7 @@
 |**Title**|**Age**|
 |:----|:----|
 |[Add support for global ignore directories](https://github.com/depscloud/depscloud/issues/137)|11&nbsp;days|
-|[Support outputting topology queries to a file](https://github.com/depscloud/depscloud/issues/135)|11&nbsp;days|
+|[Support outputting topology queries to a file](https://github.com/depscloud/depscloud/issues/135)|12&nbsp;days|
 |[Add support for jsonnet-bundler files](https://github.com/depscloud/depscloud/issues/115)|27&nbsp;days|
 
 

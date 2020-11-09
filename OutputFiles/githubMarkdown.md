@@ -1,12 +1,12 @@
-## Updated: November 9, 2020 12:15 AM
+## Updated: November 9, 2020 8:07 AM
 
 
 ### indeedeng/starfish
 |**Title**|**Age**|
 |:----|:----|
 |[Provide default values for most configuration options](https://github.com/indeedeng/starfish/issues/78)|11&nbsp;days|
-|[Add configuration options to allow filtering of self-owned repositories](https://github.com/indeedeng/starfish/issues/65)|23&nbsp;days|
-|[replace Moment.js with Luxon](https://github.com/indeedeng/starfish/issues/60)|25&nbsp;days|
+|[Add configuration options to allow filtering of self-owned repositories](https://github.com/indeedeng/starfish/issues/65)|24&nbsp;days|
+|[replace Moment.js with Luxon](https://github.com/indeedeng/starfish/issues/60)|26&nbsp;days|
 |[Allow filtering based on action types within event types](https://github.com/indeedeng/starfish/issues/58)|27&nbsp;days|
 
 
@@ -15,7 +15,7 @@
 |:----|:----|
 |[Add support for global ignore directories](https://github.com/depscloud/depscloud/issues/137)|11&nbsp;days|
 |[Support outputting topology queries to a file](https://github.com/depscloud/depscloud/issues/135)|11&nbsp;days|
-|[Add support for jsonnet-bundler files](https://github.com/depscloud/depscloud/issues/115)|26&nbsp;days|
+|[Add support for jsonnet-bundler files](https://github.com/depscloud/depscloud/issues/115)|27&nbsp;days|
 
 
 ### indeedeng/Mariner-Issue-Collector

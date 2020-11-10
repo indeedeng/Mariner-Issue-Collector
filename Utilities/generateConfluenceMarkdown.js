@@ -26,7 +26,7 @@ function generateMarkdown() {
     markdownArray.push(`h3. ${dependency}`)
     markdownArray.push('||*Title*||*Age*||')
     for(issue in dependencies[dependency]) {
-      var issueAge = now.diff(DateTime.fromISO(dependencies[dependency][issue].createdAt), 'days').days
+      var issueAge = Math.round(now.diff(DateTime.fromISO(dependencies[dependency][issue].createdAt), 'days').days)
       if (issueAge < maxIssuesAge) {
         markdownArray.push(`|[${dependencies[dependency][issue].title}|${dependencies[dependency][issue].url}]|${issueAge}&nbsp;days|`);
       }

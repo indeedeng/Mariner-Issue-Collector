@@ -78,7 +78,7 @@ function generateHTML() {
       `;
 
     for(issue in dependencies[dependency]) {
-      var issueAge = now.diff(DateTime.fromISO(dependencies[dependency][issue].createdAt), 'days').days
+      var issueAge = Math.round(now.diff(DateTime.fromISO(dependencies[dependency][issue].createdAt), 'days').days)
       if (issueAge < maxIssuesAge) {
         htmlContent += `<tr>
           <td style="text-align:left">

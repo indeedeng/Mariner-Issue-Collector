@@ -129,12 +129,6 @@
   "indeedeng/mariner": [],
   "indeedeng/Mariner-Issue-Collector": [
     {
-      "title": "Upgrade to use luxon instead of moment",
-      "createdAt": "2020-10-29T21:24:52Z",
-      "repositoryNameWithOwner": "indeedeng/Mariner-Issue-Collector",
-      "url": "https://github.com/indeedeng/Mariner-Issue-Collector/issues/31"
-    },
-    {
       "title": "Add Utilities/README.md",
       "createdAt": "2020-10-29T21:18:46Z",
       "repositoryNameWithOwner": "indeedeng/Mariner-Issue-Collector",

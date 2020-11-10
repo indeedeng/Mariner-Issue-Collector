@@ -1,6 +1,6 @@
-const { DateTime } = require('luxon')
-      fs = require('fs')
+const fs = require('fs')
       path = require('path')
+      moment = require('moment')
 
 const outputFilePath =
     process.env.MARINER_OUTPUT_FILE_PATH ||
@@ -13,7 +13,7 @@ const maxIssuesAge =
     process.env.MARINER_MAX_ISSUES_AGE ||
     30
 
-const now = DateTime.local()
+const now = moment()
 
 var dependencies = {}
     htmlContent = ""
@@ -55,8 +55,8 @@ function generateHTML() {
   `;
 
   htmlContent += `<h2 class="code-line" data-line-start=0 data-line-end=1 >
-      <a id="Updated_${now.toLocaleString(DateTime.DATETIME_FULL)}"></a>
-        Updated: ${now.toLocaleString(DateTime.DATETIME_FULL)}
+      <a id="Updated_${now.format("LLL")}"></a>
+        Updated: ${now.format("LLL")}
   </h2>
   `;
 
@@ -78,7 +78,7 @@ function generateHTML() {
       `;
 
     for(issue in dependencies[dependency]) {
-      var issueAge = now.diff(DateTime.fromISO(dependencies[dependency][issue].createdAt), 'days').days
+      var issueAge = now.diff(moment(dependencies[dependency][issue].createdAt), 'days')
       if (issueAge < maxIssuesAge) {
         htmlContent += `<tr>
           <td style="text-align:left">

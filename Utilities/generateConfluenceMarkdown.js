@@ -1,6 +1,6 @@
-const { DateTime } = require('luxon')
-      fs = require('fs')
+const fs = require('fs')
       path = require('path')
+      moment = require('moment')
 
 const outputFilePath =
     process.env.MARINER_OUTPUT_FILE_PATH ||
@@ -13,20 +13,20 @@ const maxIssuesAge =
     process.env.MARINER_MAX_ISSUES_AGE ||
     30
 
-const now = DateTime.local()
+const now = moment()
 
 var dependencies = {}
     markdownArray = []
 
 function generateMarkdown() {
-  markdownArray.push(`h2. Updated: ${now.toLocaleString(DateTime.DATETIME_FULL)}`)
+  markdownArray.push(`h2. Updated: ${now.format("LLL")}`)
   for(dependency in dependencies) {
     if (!dependencies[dependency].length) continue
     markdownArray.push('\n')
     markdownArray.push(`h3. ${dependency}`)
     markdownArray.push('||*Title*||*Age*||')
     for(issue in dependencies[dependency]) {
-      var issueAge = now.diff(DateTime.fromISO(dependencies[dependency][issue].createdAt), 'days').days
+      var issueAge = now.diff(moment(dependencies[dependency][issue].createdAt), 'days')
       if (issueAge < maxIssuesAge) {
         markdownArray.push(`|[${dependencies[dependency][issue].title}|${dependencies[dependency][issue].url}]|${issueAge}&nbsp;days|`);
       }

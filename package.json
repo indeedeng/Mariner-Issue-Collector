@@ -5,7 +5,7 @@
     "author": "Indeed, Inc",
     "license": "MIT",
     "dependencies": {
-        "luxon": "^1.25.0",
+        "moment": "^2.29.1",
         "oss-mariner": "^0.3.1-alpha"
     },
     "repository": {

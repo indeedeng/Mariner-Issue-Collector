@@ -1,6 +1,5 @@
 const fs = require('fs')
       path = require('path')
-      moment = require('moment')
       mariner = require('oss-mariner')
 
 function getFromEnvOrThrow(configField) {

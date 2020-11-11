@@ -1,10 +1,10 @@
-## Updated: November 11, 2020, 12:11 AM UTC
+## Updated: November 11, 2020, 8:05 AM UTC
 
 
 ### indeedeng/starfish
 |**Title**|**Age**|
 |:----|:----|
-|[Provide default values for most configuration options](https://github.com/indeedeng/starfish/issues/78)|13&nbsp;days|
+|[Provide default values for most configuration options](https://github.com/indeedeng/starfish/issues/78)|14&nbsp;days|
 |[Add configuration options to allow filtering of self-owned repositories](https://github.com/indeedeng/starfish/issues/65)|26&nbsp;days|
 |[replace Moment.js with Luxon](https://github.com/indeedeng/starfish/issues/60)|28&nbsp;days|
 |[Allow filtering based on action types within event types](https://github.com/indeedeng/starfish/issues/58)|29&nbsp;days|
@@ -13,8 +13,8 @@
 ### depscloud/depscloud
 |**Title**|**Age**|
 |:----|:----|
-|[Add support for global ignore directories](https://github.com/depscloud/depscloud/issues/137)|13&nbsp;days|
-|[Support outputting topology queries to a file](https://github.com/depscloud/depscloud/issues/135)|13&nbsp;days|
+|[Add support for global ignore directories](https://github.com/depscloud/depscloud/issues/137)|14&nbsp;days|
+|[Support outputting topology queries to a file](https://github.com/depscloud/depscloud/issues/135)|14&nbsp;days|
 |[Add support for jsonnet-bundler files](https://github.com/depscloud/depscloud/issues/115)|29&nbsp;days|
 
 

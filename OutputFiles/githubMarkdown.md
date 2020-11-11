@@ -1,13 +1,12 @@
-## Updated: November 11, 2020, 8:05 AM UTC
+## Updated: November 11, 2020, 4:08 PM UTC
 
 
 ### indeedeng/starfish
 |**Title**|**Age**|
 |:----|:----|
 |[Provide default values for most configuration options](https://github.com/indeedeng/starfish/issues/78)|14&nbsp;days|
-|[Add configuration options to allow filtering of self-owned repositories](https://github.com/indeedeng/starfish/issues/65)|26&nbsp;days|
-|[replace Moment.js with Luxon](https://github.com/indeedeng/starfish/issues/60)|28&nbsp;days|
-|[Allow filtering based on action types within event types](https://github.com/indeedeng/starfish/issues/58)|29&nbsp;days|
+|[Add configuration options to allow filtering of self-owned repositories](https://github.com/indeedeng/starfish/issues/65)|27&nbsp;days|
+|[replace Moment.js with Luxon](https://github.com/indeedeng/starfish/issues/60)|29&nbsp;days|
 
 
 ### depscloud/depscloud
@@ -15,13 +14,12 @@
 |:----|:----|
 |[Add support for global ignore directories](https://github.com/depscloud/depscloud/issues/137)|14&nbsp;days|
 |[Support outputting topology queries to a file](https://github.com/depscloud/depscloud/issues/135)|14&nbsp;days|
-|[Add support for jsonnet-bundler files](https://github.com/depscloud/depscloud/issues/115)|29&nbsp;days|
 
 
 ### indeedeng/Mariner-Issue-Collector
 |**Title**|**Age**|
 |:----|:----|
-|[Add Utilities/README.md](https://github.com/indeedeng/Mariner-Issue-Collector/issues/30)|12&nbsp;days|
-|[Add Mariner Screenshot](https://github.com/indeedeng/Mariner-Issue-Collector/issues/29)|12&nbsp;days|
-|[Catalog potential sources of dependency information.](https://github.com/indeedeng/Mariner-Issue-Collector/issues/19)|19&nbsp;days|
-|[Update gh-pages landing page to show found issues.](https://github.com/indeedeng/Mariner-Issue-Collector/issues/15)|19&nbsp;days|
+|[Add Utilities/README.md](https://github.com/indeedeng/Mariner-Issue-Collector/issues/30)|13&nbsp;days|
+|[Add Mariner Screenshot](https://github.com/indeedeng/Mariner-Issue-Collector/issues/29)|13&nbsp;days|
+|[Catalog potential sources of dependency information.](https://github.com/indeedeng/Mariner-Issue-Collector/issues/19)|20&nbsp;days|
+|[Update gh-pages landing page to show found issues.](https://github.com/indeedeng/Mariner-Issue-Collector/issues/15)|20&nbsp;days|

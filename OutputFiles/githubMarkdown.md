@@ -1,4 +1,4 @@
-## Updated: November 15, 2020, 8:05 AM UTC
+## Updated: November 15, 2020, 4:07 PM UTC
 
 
 ### indeedeng/starfish
@@ -17,7 +17,7 @@
 ### indeedeng/Mariner-Issue-Collector
 |**Title**|**Age**|
 |:----|:----|
-|[Add Utilities/README.md](https://github.com/indeedeng/Mariner-Issue-Collector/issues/30)|16&nbsp;days|
-|[Add Mariner Screenshot](https://github.com/indeedeng/Mariner-Issue-Collector/issues/29)|16&nbsp;days|
-|[Catalog potential sources of dependency information.](https://github.com/indeedeng/Mariner-Issue-Collector/issues/19)|23&nbsp;days|
-|[Update gh-pages landing page to show found issues.](https://github.com/indeedeng/Mariner-Issue-Collector/issues/15)|23&nbsp;days|
+|[Add Utilities/README.md](https://github.com/indeedeng/Mariner-Issue-Collector/issues/30)|17&nbsp;days|
+|[Add Mariner Screenshot](https://github.com/indeedeng/Mariner-Issue-Collector/issues/29)|17&nbsp;days|
+|[Catalog potential sources of dependency information.](https://github.com/indeedeng/Mariner-Issue-Collector/issues/19)|24&nbsp;days|
+|[Update gh-pages landing page to show found issues.](https://github.com/indeedeng/Mariner-Issue-Collector/issues/15)|24&nbsp;days|

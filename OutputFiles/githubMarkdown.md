@@ -1,17 +1,14 @@
-## Updated: November 27, 2020, 12:16 AM UTC
+## Updated: November 27, 2020, 8:07 AM UTC
 
 
 ### indeedeng/starfish
 |**Title**|**Age**|
 |:----|:----|
-|[Provide default values for most configuration options](https://github.com/indeedeng/starfish/issues/78)|29&nbsp;days|
 
 
 ### depscloud/depscloud
 |**Title**|**Age**|
 |:----|:----|
-|[Add support for global ignore directories](https://github.com/depscloud/depscloud/issues/137)|29&nbsp;days|
-|[Support outputting topology queries to a file](https://github.com/depscloud/depscloud/issues/135)|29&nbsp;days|
 
 
 ### indeedeng/Mariner-Issue-Collector

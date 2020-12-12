@@ -35,12 +35,6 @@
       "url": "https://github.com/depscloud/depscloud/issues/135"
     },
     {
-      "title": "Add support for jsonnet-bundler files",
-      "createdAt": "2020-10-13T01:49:55Z",
-      "repositoryNameWithOwner": "depscloud/depscloud",
-      "url": "https://github.com/depscloud/depscloud/issues/115"
-    },
-    {
       "title": "Add support for prometheus push gateway to indexer",
       "createdAt": "2020-10-09T18:42:20Z",
       "repositoryNameWithOwner": "depscloud/depscloud",
@@ -57,12 +51,6 @@
       "createdAt": "2020-08-05T20:50:38Z",
       "repositoryNameWithOwner": "depscloud/depscloud",
       "url": "https://github.com/depscloud/depscloud/issues/2"
-    },
-    {
-      "title": "Add troubleshooting command",
-      "createdAt": "2020-08-03T17:16:11Z",
-      "repositoryNameWithOwner": "depscloud/depscloud",
-      "url": "https://github.com/depscloud/depscloud/issues/3"
     },
     {
       "title": "Add support for crawling AWS CodeCommit",

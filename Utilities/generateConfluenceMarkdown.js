@@ -34,6 +34,11 @@ function generateMarkdown() {
   }
 }
 
+var cleanMarkdown // This may need to be an array ~Damon
+generateCleanMarkdown = ()=> {
+cleanMarkdown = markdownArray.replace(/{|}/g,'');
+}
+
 fs.exists(outputFilePath, (exists) => {
   if (exists) {
     const contents = fs.readFileSync(outputFilePath, {
@@ -41,7 +46,8 @@ fs.exists(outputFilePath, (exists) => {
     })
     dependencies = JSON.parse(contents)
     generateMarkdown()
-    fs.writeFileSync(markdownFilePath, markdownArray.join('\n'))
+    generateCleanMarkdown()
+    fs.writeFileSync(markdownFilePath, cleanMarkdown.join('\n'))
   } else {
     console.error("Input file does not exist", outputFilePath)
     return

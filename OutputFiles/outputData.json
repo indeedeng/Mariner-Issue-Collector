@@ -1,7 +1,38 @@
 {
   "indeedeng/k8dash": [],
   "fasterxml/jackson": [],
-  "indeedeng/starfish": [],
+  "indeedeng/starfish": [
+    {
+      "title": "integration tests/ more tests",
+      "createdAt": "2021-09-29T22:19:35Z",
+      "repositoryNameWithOwner": "indeedeng/starfish",
+      "url": "https://github.com/indeedeng/starfish/issues/117"
+    },
+    {
+      "title": "only ignore self-owned events if the project isn't used by others",
+      "createdAt": "2021-03-02T01:46:48Z",
+      "repositoryNameWithOwner": "indeedeng/starfish",
+      "url": "https://github.com/indeedeng/starfish/issues/104"
+    },
+    {
+      "title": "Provide default values for most configuration options",
+      "createdAt": "2020-10-28T17:10:05Z",
+      "repositoryNameWithOwner": "indeedeng/starfish",
+      "url": "https://github.com/indeedeng/starfish/issues/78"
+    },
+    {
+      "title": "Add configuration options to allow filtering of employer-owned repositories",
+      "createdAt": "2020-10-16T01:24:21Z",
+      "repositoryNameWithOwner": "indeedeng/starfish",
+      "url": "https://github.com/indeedeng/starfish/issues/66"
+    },
+    {
+      "title": "Use conditional requests to avoid rate limiting problems",
+      "createdAt": "2020-06-08T22:24:25Z",
+      "repositoryNameWithOwner": "indeedeng/starfish",
+      "url": "https://github.com/indeedeng/starfish/issues/44"
+    }
+  ],
   "depscloud/depscloud": [],
   "indeedeng/mariner-issue-collector": [],
   "indeedeng/mariner": [],

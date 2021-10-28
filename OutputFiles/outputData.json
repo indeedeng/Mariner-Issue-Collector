@@ -3,6 +3,12 @@
   "fasterxml/jackson": [],
   "indeedeng/starfish": [
     {
+      "title": "Feature: Allow excluding projects with non-OSI approved licenses",
+      "createdAt": "2021-10-26T00:33:43Z",
+      "repositoryNameWithOwner": "indeedeng/starfish",
+      "url": "https://github.com/indeedeng/starfish/issues/126"
+    },
+    {
       "title": "integration tests/ more tests",
       "createdAt": "2021-09-29T22:19:35Z",
       "repositoryNameWithOwner": "indeedeng/starfish",

@@ -1,10 +1,10 @@
-## Updated: November 16, 2021, 8:11 AM UTC
+## Updated: November 16, 2021, 4:10 PM UTC
 
 
 ### indeedeng/starfish
 |**Title**|**Age**|
 |:----|:----|
-|[Feature: Allow excluding projects with non-OSI approved licenses](https://github.com/indeedeng/starfish/issues/126)|21&nbsp;days|
+|[Feature: Allow excluding projects with non-OSI approved licenses](https://github.com/indeedeng/starfish/issues/126)|22&nbsp;days|
 
 
 ### indeedeng/Mariner-Issue-Collector

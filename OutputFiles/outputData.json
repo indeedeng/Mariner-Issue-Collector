@@ -44,6 +44,12 @@
   "indeedeng/mariner": [],
   "indeedeng/Mariner-Issue-Collector": [
     {
+      "title": "Outputs should either not list projects with no issues, or list projects and say there are no issues",
+      "createdAt": "2021-12-15T19:43:06Z",
+      "repositoryNameWithOwner": "indeedeng/Mariner-Issue-Collector",
+      "url": "https://github.com/indeedeng/Mariner-Issue-Collector/issues/40"
+    },
+    {
       "title": "Branch Protection conflicts with GitHub Action",
       "createdAt": "2021-05-25T22:42:47Z",
       "repositoryNameWithOwner": "indeedeng/Mariner-Issue-Collector",

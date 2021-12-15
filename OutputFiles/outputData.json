@@ -1,5 +1,5 @@
 {
-  "indeedeng/k8dash": [],
+  "skooner-k8s/skooner": [],
   "fasterxml/jackson": [],
   "indeedeng/starfish": [
     {
@@ -39,9 +39,9 @@
       "url": "https://github.com/indeedeng/starfish/issues/44"
     }
   ],
-  "depscloud/depscloud": [],
   "indeedeng/mariner-issue-collector": [],
   "indeedeng/mariner": [],
+  "freeCodeCamp/freeCodeCamp": [],
   "indeedeng/Mariner-Issue-Collector": [
     {
       "title": "Outputs should either not list projects with no issues, or list projects and say there are no issues",

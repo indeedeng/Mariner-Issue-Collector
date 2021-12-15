@@ -1,8 +1,8 @@
 {
-    "indeedeng/k8dash": 25,
+    "skooner-k8s/skooner": 25,
     "fasterxml/jackson": 20,
     "indeedeng/starfish": 15,
-    "depscloud/depscloud": 10,
-    "indeedeng/mariner-issue-collector": 5,
-    "indeedeng/mariner": 5
+    "indeedeng/mariner-issue-collector": 10,
+    "indeedeng/mariner": 10,
+    "freeCodeCamp/freeCodeCamp": 5
 }

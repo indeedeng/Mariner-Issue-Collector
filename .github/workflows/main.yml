@@ -24,7 +24,7 @@ jobs:
           MARINER_LABELS_FILE_PATH: "./InputFiles/issueLabels.json"
           MARINER_OUTPUT_FILE_PATH: "./OutputFiles/outputData.json"
           MARINER_MARKDOWN_FILE_PATH: "./OutputFiles/githubMarkdown.md"
-          MARINER_MAX_ISSUES_AGE: "30"
+          MARINER_MAX_ISSUES_AGE: "90"
       - name: Format Markdown
         id: mariner_markdown_formatter
         run: |

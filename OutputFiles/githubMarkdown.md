@@ -1,4 +1,4 @@
-## Updated: December 27, 2021, 12:34 AM UTC
+## Updated: December 27, 2021, 8:12 AM UTC
 
 
 ### indeedeng/starfish
@@ -9,7 +9,7 @@
 ### indeedeng/Mariner-Issue-Collector
 |**Title**|**Age**|
 |:----|:----|
-|[Outputs should either not list projects with no issues, or list projects and say there are no issues](https://github.com/indeedeng/Mariner-Issue-Collector/issues/40)|11&nbsp;days|
+|[Outputs should either not list projects with no issues, or list projects and say there are no issues](https://github.com/indeedeng/Mariner-Issue-Collector/issues/40)|12&nbsp;days|
 
 
 ### indeedeng/Mariner

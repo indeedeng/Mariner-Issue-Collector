@@ -79,13 +79,5 @@
       "repositoryNameWithOwner": "indeedeng/Mariner-Issue-Collector",
       "url": "https://github.com/indeedeng/Mariner-Issue-Collector/issues/15"
     }
-  ],
-  "indeedeng/Mariner": [
-    {
-      "title": "Update README.md to describe how to output HTML",
-      "createdAt": "2021-09-03T21:28:07Z",
-      "repositoryNameWithOwner": "indeedeng/Mariner",
-      "url": "https://github.com/indeedeng/Mariner/issues/93"
-    }
   ]
 }

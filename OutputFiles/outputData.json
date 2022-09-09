@@ -325,7 +325,7 @@
       "url": "https://github.com/freeCodeCamp/freeCodeCamp/issues/41040"
     },
     {
-      "title": "Staging/i18n: Project titles are untranslated on settings page",
+      "title": "Staging/i18n: Project and certificates titles are untranslatable on settings page",
       "createdAt": "2021-02-08T16:18:19Z",
       "repositoryNameWithOwner": "freeCodeCamp/freeCodeCamp",
       "url": "https://github.com/freeCodeCamp/freeCodeCamp/issues/40998"

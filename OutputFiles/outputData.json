@@ -41,7 +41,332 @@
   ],
   "indeedeng/mariner-issue-collector": [],
   "indeedeng/mariner": [],
-  "freeCodeCamp/freeCodeCamp": [],
+  "freeCodeCamp/freeCodeCamp": [
+    {
+      "title": "Multifile editor refactor",
+      "createdAt": "2022-09-08T09:45:13Z",
+      "repositoryNameWithOwner": "freeCodeCamp/freeCodeCamp",
+      "url": "https://github.com/freeCodeCamp/freeCodeCamp/issues/47467"
+    },
+    {
+      "title": "Learn HTML Forms by Building a Registration Form",
+      "createdAt": "2022-09-06T17:29:24Z",
+      "repositoryNameWithOwner": "freeCodeCamp/freeCodeCamp",
+      "url": "https://github.com/freeCodeCamp/freeCodeCamp/issues/47456"
+    },
+    {
+      "title": "[Forum] Links to headings a hidden behind nav",
+      "createdAt": "2022-08-11T02:06:29Z",
+      "repositoryNameWithOwner": "freeCodeCamp/freeCodeCamp",
+      "url": "https://github.com/freeCodeCamp/freeCodeCamp/issues/47257"
+    },
+    {
+      "title": "Auto-formatter does not follow FCC indentation standards for `body` and `head` elements",
+      "createdAt": "2022-08-03T17:15:15Z",
+      "repositoryNameWithOwner": "freeCodeCamp/freeCodeCamp",
+      "url": "https://github.com/freeCodeCamp/freeCodeCamp/issues/47146"
+    },
+    {
+      "title": "CatPhotoApp Step 68: Issues with `meta` element",
+      "createdAt": "2022-08-02T04:45:35Z",
+      "repositoryNameWithOwner": "freeCodeCamp/freeCodeCamp",
+      "url": "https://github.com/freeCodeCamp/freeCodeCamp/issues/47118"
+    },
+    {
+      "title": "Stuck in challenge when I had a typo",
+      "createdAt": "2022-08-01T22:43:09Z",
+      "repositoryNameWithOwner": "freeCodeCamp/freeCodeCamp",
+      "url": "https://github.com/freeCodeCamp/freeCodeCamp/issues/47117"
+    },
+    {
+      "title": "data analysis with python projects are not i18n friendly",
+      "createdAt": "2022-07-25T21:20:20Z",
+      "repositoryNameWithOwner": "freeCodeCamp/freeCodeCamp",
+      "url": "https://github.com/freeCodeCamp/freeCodeCamp/issues/47038"
+    },
+    {
+      "title": "CatPhotoApp Step 12 is not clear",
+      "createdAt": "2022-07-23T13:13:59Z",
+      "repositoryNameWithOwner": "freeCodeCamp/freeCodeCamp",
+      "url": "https://github.com/freeCodeCamp/freeCodeCamp/issues/47010"
+    },
+    {
+      "title": "Building a quiz step-30: Missing ids on input elements",
+      "createdAt": "2022-07-23T01:26:06Z",
+      "repositoryNameWithOwner": "freeCodeCamp/freeCodeCamp",
+      "url": "https://github.com/freeCodeCamp/freeCodeCamp/issues/46997"
+    },
+    {
+      "title": "Product Landing Page: allow flexbox to be set only inside a media query",
+      "createdAt": "2022-07-13T18:59:50Z",
+      "repositoryNameWithOwner": "freeCodeCamp/freeCodeCamp",
+      "url": "https://github.com/freeCodeCamp/freeCodeCamp/issues/46887"
+    },
+    {
+      "title": "Specify the number of project from full Projects is Complete",
+      "createdAt": "2022-07-10T13:14:26Z",
+      "repositoryNameWithOwner": "freeCodeCamp/freeCodeCamp",
+      "url": "https://github.com/freeCodeCamp/freeCodeCamp/issues/46843"
+    },
+    {
+      "title": "Nutrition Label Ex 35-36: Should use Flexbox, not Float",
+      "createdAt": "2022-06-26T17:23:49Z",
+      "repositoryNameWithOwner": "freeCodeCamp/freeCodeCamp",
+      "url": "https://github.com/freeCodeCamp/freeCodeCamp/issues/46675"
+    },
+    {
+      "title": "Confirmation modal on signing out",
+      "createdAt": "2022-06-22T15:17:43Z",
+      "repositoryNameWithOwner": "freeCodeCamp/freeCodeCamp",
+      "url": "https://github.com/freeCodeCamp/freeCodeCamp/issues/46623"
+    },
+    {
+      "title": "Move Legacy RWD to bottom of map",
+      "createdAt": "2022-06-16T13:24:38Z",
+      "repositoryNameWithOwner": "freeCodeCamp/freeCodeCamp",
+      "url": "https://github.com/freeCodeCamp/freeCodeCamp/issues/46523"
+    },
+    {
+      "title": "Unlimited forms created by spamming add items button in user setting",
+      "createdAt": "2022-06-15T13:33:23Z",
+      "repositoryNameWithOwner": "freeCodeCamp/freeCodeCamp",
+      "url": "https://github.com/freeCodeCamp/freeCodeCamp/issues/46510"
+    },
+    {
+      "title": "New RWD : Concepts like `vh` and `rem` are never explained",
+      "createdAt": "2022-06-15T06:42:02Z",
+      "repositoryNameWithOwner": "freeCodeCamp/freeCodeCamp",
+      "url": "https://github.com/freeCodeCamp/freeCodeCamp/issues/46502"
+    },
+    {
+      "title": "Making `/settings`' buttons consistent ",
+      "createdAt": "2022-06-14T12:52:28Z",
+      "repositoryNameWithOwner": "freeCodeCamp/freeCodeCamp",
+      "url": "https://github.com/freeCodeCamp/freeCodeCamp/issues/46497"
+    },
+    {
+      "title": "Breadcrums in Help Text",
+      "createdAt": "2022-06-08T22:59:05Z",
+      "repositoryNameWithOwner": "freeCodeCamp/freeCodeCamp",
+      "url": "https://github.com/freeCodeCamp/freeCodeCamp/issues/46411"
+    },
+    {
+      "title": "Campfire Mode doesn't trigger on multiple browsers unless you turn it on and off",
+      "createdAt": "2022-06-07T02:19:45Z",
+      "repositoryNameWithOwner": "freeCodeCamp/freeCodeCamp",
+      "url": "https://github.com/freeCodeCamp/freeCodeCamp/issues/46372"
+    },
+    {
+      "title": "Learn Typography by Building a Nutrition Label - gets repetitive and a bit boring",
+      "createdAt": "2022-06-05T18:26:10Z",
+      "repositoryNameWithOwner": "freeCodeCamp/freeCodeCamp",
+      "url": "https://github.com/freeCodeCamp/freeCodeCamp/issues/46358"
+    },
+    {
+      "title": "(a11y) Keyboard users can't access all content in Steps",
+      "createdAt": "2022-05-31T19:26:29Z",
+      "repositoryNameWithOwner": "freeCodeCamp/freeCodeCamp",
+      "url": "https://github.com/freeCodeCamp/freeCodeCamp/issues/46259"
+    },
+    {
+      "title": "New Editor layout Improvements ☂️",
+      "createdAt": "2022-05-27T14:52:04Z",
+      "repositoryNameWithOwner": "freeCodeCamp/freeCodeCamp",
+      "url": "https://github.com/freeCodeCamp/freeCodeCamp/issues/46178"
+    },
+    {
+      "title": "Port Front End Dev Libraries and Data Vis. to `.rocks`",
+      "createdAt": "2022-05-27T10:51:54Z",
+      "repositoryNameWithOwner": "freeCodeCamp/freeCodeCamp",
+      "url": "https://github.com/freeCodeCamp/freeCodeCamp/issues/46173"
+    },
+    {
+      "title": "Iframe bounces back to top when running tests",
+      "createdAt": "2022-05-19T07:57:15Z",
+      "repositoryNameWithOwner": "freeCodeCamp/freeCodeCamp",
+      "url": "https://github.com/freeCodeCamp/freeCodeCamp/issues/46061"
+    },
+    {
+      "title": "FreeCodeCamp preview editor re-renders incorrectly",
+      "createdAt": "2022-05-18T20:25:33Z",
+      "repositoryNameWithOwner": "freeCodeCamp/freeCodeCamp",
+      "url": "https://github.com/freeCodeCamp/freeCodeCamp/issues/46057"
+    },
+    {
+      "title": "View button on new RWD certs looks out of place",
+      "createdAt": "2022-05-13T14:14:56Z",
+      "repositoryNameWithOwner": "freeCodeCamp/freeCodeCamp",
+      "url": "https://github.com/freeCodeCamp/freeCodeCamp/issues/45949"
+    },
+    {
+      "title": "Challenges (Front End Development Libraries Projects): Multiple tests breaks with React 18",
+      "createdAt": "2022-05-11T17:23:23Z",
+      "repositoryNameWithOwner": "freeCodeCamp/freeCodeCamp",
+      "url": "https://github.com/freeCodeCamp/freeCodeCamp/issues/45922"
+    },
+    {
+      "title": "Campfire Mode Volume Slider",
+      "createdAt": "2022-05-09T15:57:12Z",
+      "repositoryNameWithOwner": "freeCodeCamp/freeCodeCamp",
+      "url": "https://github.com/freeCodeCamp/freeCodeCamp/issues/45894"
+    },
+    {
+      "title": "Issue with Primary Key name when getting the 5th table with primary key",
+      "createdAt": "2022-04-11T00:26:33Z",
+      "repositoryNameWithOwner": "freeCodeCamp/freeCodeCamp",
+      "url": "https://github.com/freeCodeCamp/freeCodeCamp/issues/45666"
+    },
+    {
+      "title": "[RDB] Bug in celestial bodies project",
+      "createdAt": "2022-03-31T16:16:34Z",
+      "repositoryNameWithOwner": "freeCodeCamp/freeCodeCamp",
+      "url": "https://github.com/freeCodeCamp/freeCodeCamp/issues/45585"
+    },
+    {
+      "title": "All Failed-Ops Redirect to FAQ/Info Page",
+      "createdAt": "2022-03-28T20:34:04Z",
+      "repositoryNameWithOwner": "freeCodeCamp/freeCodeCamp",
+      "url": "https://github.com/freeCodeCamp/freeCodeCamp/issues/45563"
+    },
+    {
+      "title": "Addding a margin to the header",
+      "createdAt": "2022-03-23T07:51:05Z",
+      "repositoryNameWithOwner": "freeCodeCamp/freeCodeCamp",
+      "url": "https://github.com/freeCodeCamp/freeCodeCamp/issues/45510"
+    },
+    {
+      "title": "Prevent circular imports via linting",
+      "createdAt": "2022-02-27T15:17:31Z",
+      "repositoryNameWithOwner": "freeCodeCamp/freeCodeCamp",
+      "url": "https://github.com/freeCodeCamp/freeCodeCamp/issues/45277"
+    },
+    {
+      "title": "Weird Instructions -> Add Elements to the End of an Array Using concat Instead of push",
+      "createdAt": "2022-02-19T23:30:45Z",
+      "repositoryNameWithOwner": "freeCodeCamp/freeCodeCamp",
+      "url": "https://github.com/freeCodeCamp/freeCodeCamp/issues/45194"
+    },
+    {
+      "title": "Report of incorrect a11y guidance for \"Make Screen Reader Navigation Easier with the header Landmark\"",
+      "createdAt": "2022-02-11T23:05:54Z",
+      "repositoryNameWithOwner": "freeCodeCamp/freeCodeCamp",
+      "url": "https://github.com/freeCodeCamp/freeCodeCamp/issues/45091"
+    },
+    {
+      "title": "Adding an alt attribute to steps 2-4 of the CSS Box Model project",
+      "createdAt": "2022-01-26T14:51:39Z",
+      "repositoryNameWithOwner": "freeCodeCamp/freeCodeCamp",
+      "url": "https://github.com/freeCodeCamp/freeCodeCamp/issues/44923"
+    },
+    {
+      "title": "Exercise Tracker - Issue with one test case due to timezones",
+      "createdAt": "2021-12-11T14:36:18Z",
+      "repositoryNameWithOwner": "freeCodeCamp/freeCodeCamp",
+      "url": "https://github.com/freeCodeCamp/freeCodeCamp/issues/44475"
+    },
+    {
+      "title": "TypeScript Migration",
+      "createdAt": "2021-10-08T14:31:57Z",
+      "repositoryNameWithOwner": "freeCodeCamp/freeCodeCamp",
+      "url": "https://github.com/freeCodeCamp/freeCodeCamp/issues/43778"
+    },
+    {
+      "title": "Global State Reset Bug",
+      "createdAt": "2021-09-21T14:16:59Z",
+      "repositoryNameWithOwner": "freeCodeCamp/freeCodeCamp",
+      "url": "https://github.com/freeCodeCamp/freeCodeCamp/issues/43516"
+    },
+    {
+      "title": "Unable to select keyboard on iOS (Safari)",
+      "createdAt": "2021-08-18T14:31:24Z",
+      "repositoryNameWithOwner": "freeCodeCamp/freeCodeCamp",
+      "url": "https://github.com/freeCodeCamp/freeCodeCamp/issues/43233"
+    },
+    {
+      "title": "Update Back-end curriculum tests to be more transparent/descriptive",
+      "createdAt": "2021-07-12T20:04:00Z",
+      "repositoryNameWithOwner": "freeCodeCamp/freeCodeCamp",
+      "url": "https://github.com/freeCodeCamp/freeCodeCamp/issues/42836"
+    },
+    {
+      "title": "Cross Platform testing",
+      "createdAt": "2021-06-16T19:44:26Z",
+      "repositoryNameWithOwner": "freeCodeCamp/freeCodeCamp",
+      "url": "https://github.com/freeCodeCamp/freeCodeCamp/issues/42541"
+    },
+    {
+      "title": "Migrate freeCodeCamp/strip-comments to TypeScript",
+      "createdAt": "2021-05-26T09:32:13Z",
+      "repositoryNameWithOwner": "freeCodeCamp/freeCodeCamp",
+      "url": "https://github.com/freeCodeCamp/freeCodeCamp/issues/47468"
+    },
+    {
+      "title": "Show indication for completed courses on main courses page",
+      "createdAt": "2021-03-08T03:45:40Z",
+      "repositoryNameWithOwner": "freeCodeCamp/freeCodeCamp",
+      "url": "https://github.com/freeCodeCamp/freeCodeCamp/issues/41403"
+    },
+    {
+      "title": "Expose forum, news, and radio links on the navbar",
+      "createdAt": "2021-03-05T08:59:30Z",
+      "repositoryNameWithOwner": "freeCodeCamp/freeCodeCamp",
+      "url": "https://github.com/freeCodeCamp/freeCodeCamp/issues/41373"
+    },
+    {
+      "title": "assert.throws Doesn't Count Towards Assertions",
+      "createdAt": "2021-03-04T03:28:37Z",
+      "repositoryNameWithOwner": "freeCodeCamp/freeCodeCamp",
+      "url": "https://github.com/freeCodeCamp/freeCodeCamp/issues/41354"
+    },
+    {
+      "title": "edge case in which it should fall-back on username from name in showing cert",
+      "createdAt": "2021-02-10T12:45:45Z",
+      "repositoryNameWithOwner": "freeCodeCamp/freeCodeCamp",
+      "url": "https://github.com/freeCodeCamp/freeCodeCamp/issues/41040"
+    },
+    {
+      "title": "Staging/i18n: Project titles are untranslated on settings page",
+      "createdAt": "2021-02-08T16:18:19Z",
+      "repositoryNameWithOwner": "freeCodeCamp/freeCodeCamp",
+      "url": "https://github.com/freeCodeCamp/freeCodeCamp/issues/40998"
+    },
+    {
+      "title": "Rework coding interview prep challenges",
+      "createdAt": "2021-02-03T17:58:12Z",
+      "repositoryNameWithOwner": "freeCodeCamp/freeCodeCamp",
+      "url": "https://github.com/freeCodeCamp/freeCodeCamp/issues/40896"
+    },
+    {
+      "title": "Secure Real Time Multiplayer Project Tests",
+      "createdAt": "2021-02-02T17:48:57Z",
+      "repositoryNameWithOwner": "freeCodeCamp/freeCodeCamp",
+      "url": "https://github.com/freeCodeCamp/freeCodeCamp/issues/40877"
+    },
+    {
+      "title": "Ability to sign up for email list directly",
+      "createdAt": "2021-01-24T18:43:05Z",
+      "repositoryNameWithOwner": "freeCodeCamp/freeCodeCamp",
+      "url": "https://github.com/freeCodeCamp/freeCodeCamp/issues/40772"
+    },
+    {
+      "title": "Curriculum challenges with external links - what to do with them?",
+      "createdAt": "2021-01-20T23:12:31Z",
+      "repositoryNameWithOwner": "freeCodeCamp/freeCodeCamp",
+      "url": "https://github.com/freeCodeCamp/freeCodeCamp/issues/40749"
+    },
+    {
+      "title": "Music stops after after listening for an extended period of time",
+      "createdAt": "2020-06-25T11:19:36Z",
+      "repositoryNameWithOwner": "freeCodeCamp/freeCodeCamp",
+      "url": "https://github.com/freeCodeCamp/freeCodeCamp/issues/41074"
+    },
+    {
+      "title": "Show notifications for failed backend project submission",
+      "createdAt": "2019-10-30T13:23:56Z",
+      "repositoryNameWithOwner": "freeCodeCamp/freeCodeCamp",
+      "url": "https://github.com/freeCodeCamp/freeCodeCamp/issues/37615"
+    }
+  ],
   "indeedeng/Mariner-Issue-Collector": [
     {
       "title": "Outputs should either not list projects with no issues, or list projects and say there are no issues",

@@ -43,6 +43,18 @@
   "indeedeng/mariner": [],
   "freeCodeCamp/freeCodeCamp": [
     {
+      "title": "Registration Form Step 29 Displays Text Input Instead of Checkbox",
+      "createdAt": "2022-09-09T19:00:26Z",
+      "repositoryNameWithOwner": "freeCodeCamp/freeCodeCamp",
+      "url": "https://github.com/freeCodeCamp/freeCodeCamp/issues/47480"
+    },
+    {
+      "title": "Step 15 Building a City Skyline curriculum is missing important information",
+      "createdAt": "2022-09-09T02:10:46Z",
+      "repositoryNameWithOwner": "freeCodeCamp/freeCodeCamp",
+      "url": "https://github.com/freeCodeCamp/freeCodeCamp/issues/47474"
+    },
+    {
       "title": "Multifile editor refactor",
       "createdAt": "2022-09-08T09:45:13Z",
       "repositoryNameWithOwner": "freeCodeCamp/freeCodeCamp",

@@ -1,4 +1,4 @@
-## Updated: September 10, 2022 at 12:09 AM UTC
+## Updated: September 10, 2022 at 8:02 AM UTC
 
 
 ### indeedeng/starfish
@@ -9,10 +9,9 @@
 ### freeCodeCamp/freeCodeCamp
 |**Title**|**Age**|
 |:----|:----|
-|[Registration Form Step 29 Displays Text Input Instead of Checkbox](https://github.com/freeCodeCamp/freeCodeCamp/issues/47480)|0&nbsp;days|
 |[Step 15 Building a City Skyline curriculum is missing important information](https://github.com/freeCodeCamp/freeCodeCamp/issues/47474)|1&nbsp;days|
 |[Multifile editor refactor](https://github.com/freeCodeCamp/freeCodeCamp/issues/47467)|2&nbsp;days|
-|[Learn HTML Forms by Building a Registration Form](https://github.com/freeCodeCamp/freeCodeCamp/issues/47456)|3&nbsp;days|
+|[Learn HTML Forms by Building a Registration Form](https://github.com/freeCodeCamp/freeCodeCamp/issues/47456)|4&nbsp;days|
 
 
 ### indeedeng/Mariner-Issue-Collector

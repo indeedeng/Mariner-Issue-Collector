@@ -1,4 +1,4 @@
-## Updated: September 11, 2022 at 8:02 AM UTC
+## Updated: September 11, 2022 at 4:02 PM UTC
 
 
 ### indeedeng/starfish
@@ -9,7 +9,7 @@
 ### freeCodeCamp/freeCodeCamp
 |**Title**|**Age**|
 |:----|:----|
-|[Step 15 Building a City Skyline curriculum is missing important information](https://github.com/freeCodeCamp/freeCodeCamp/issues/47474)|2&nbsp;days|
+|[Step 15 Building a City Skyline curriculum is missing important information](https://github.com/freeCodeCamp/freeCodeCamp/issues/47474)|3&nbsp;days|
 |[Multifile editor refactor](https://github.com/freeCodeCamp/freeCodeCamp/issues/47467)|3&nbsp;days|
 |[Learn HTML Forms by Building a Registration Form](https://github.com/freeCodeCamp/freeCodeCamp/issues/47456)|5&nbsp;days|
 

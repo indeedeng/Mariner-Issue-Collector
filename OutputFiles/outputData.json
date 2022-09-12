@@ -43,12 +43,6 @@
   "indeedeng/mariner": [],
   "freeCodeCamp/freeCodeCamp": [
     {
-      "title": "Step 15 Building a City Skyline curriculum is missing important information",
-      "createdAt": "2022-09-09T02:10:46Z",
-      "repositoryNameWithOwner": "freeCodeCamp/freeCodeCamp",
-      "url": "https://github.com/freeCodeCamp/freeCodeCamp/issues/47474"
-    },
-    {
       "title": "Multifile editor refactor",
       "createdAt": "2022-09-08T09:45:13Z",
       "repositoryNameWithOwner": "freeCodeCamp/freeCodeCamp",
@@ -89,12 +83,6 @@
       "createdAt": "2022-07-25T21:20:20Z",
       "repositoryNameWithOwner": "freeCodeCamp/freeCodeCamp",
       "url": "https://github.com/freeCodeCamp/freeCodeCamp/issues/47038"
-    },
-    {
-      "title": "CatPhotoApp Step 12 is not clear",
-      "createdAt": "2022-07-23T13:13:59Z",
-      "repositoryNameWithOwner": "freeCodeCamp/freeCodeCamp",
-      "url": "https://github.com/freeCodeCamp/freeCodeCamp/issues/47010"
     },
     {
       "title": "Building a quiz step-30: Missing ids on input elements",

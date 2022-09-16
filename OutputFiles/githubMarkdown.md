@@ -1,4 +1,4 @@
-## Updated: September 15, 2022 at 4:02 PM UTC
+## Updated: September 16, 2022 at 12:09 AM UTC
 
 
 ### indeedeng/starfish
@@ -9,7 +9,8 @@
 ### freeCodeCamp/freeCodeCamp
 |**Title**|**Age**|
 |:----|:----|
-|[Multifile editor refactor](https://github.com/freeCodeCamp/freeCodeCamp/issues/47467)|7&nbsp;days|
+|[Multifile editor refactor](https://github.com/freeCodeCamp/freeCodeCamp/issues/47467)|8&nbsp;days|
+|[[learn: New RWD] Hotkeys don't work when instructions are focused ](https://github.com/freeCodeCamp/freeCodeCamp/issues/47457)|9&nbsp;days|
 |[Learn HTML Forms by Building a Registration Form](https://github.com/freeCodeCamp/freeCodeCamp/issues/47456)|9&nbsp;days|
 
 

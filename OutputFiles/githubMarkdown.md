@@ -1,4 +1,4 @@
-## Updated: September 16, 2022 at 12:09 AM UTC
+## Updated: September 16, 2022 at 8:02 AM UTC
 
 
 ### indeedeng/starfish
@@ -11,7 +11,7 @@
 |:----|:----|
 |[Multifile editor refactor](https://github.com/freeCodeCamp/freeCodeCamp/issues/47467)|8&nbsp;days|
 |[[learn: New RWD] Hotkeys don't work when instructions are focused ](https://github.com/freeCodeCamp/freeCodeCamp/issues/47457)|9&nbsp;days|
-|[Learn HTML Forms by Building a Registration Form](https://github.com/freeCodeCamp/freeCodeCamp/issues/47456)|9&nbsp;days|
+|[Learn HTML Forms by Building a Registration Form](https://github.com/freeCodeCamp/freeCodeCamp/issues/47456)|10&nbsp;days|
 
 
 ### indeedeng/Mariner-Issue-Collector

@@ -43,6 +43,24 @@
   "indeedeng/mariner": [],
   "freeCodeCamp/freeCodeCamp": [
     {
+      "title": "Cat Photo App 5 - Confusing Hint",
+      "createdAt": "2022-09-20T16:10:43Z",
+      "repositoryNameWithOwner": "freeCodeCamp/freeCodeCamp",
+      "url": "https://github.com/freeCodeCamp/freeCodeCamp/issues/47573"
+    },
+    {
+      "title": "Skip to content Button for accessibility",
+      "createdAt": "2022-09-15T13:45:20Z",
+      "repositoryNameWithOwner": "freeCodeCamp/freeCodeCamp",
+      "url": "https://github.com/freeCodeCamp/freeCodeCamp/issues/47523"
+    },
+    {
+      "title": "Broken test: Step 5 of Learn CSS transforms by building a penguin",
+      "createdAt": "2022-09-13T20:29:51Z",
+      "repositoryNameWithOwner": "freeCodeCamp/freeCodeCamp",
+      "url": "https://github.com/freeCodeCamp/freeCodeCamp/issues/47513"
+    },
+    {
       "title": "Multifile editor refactor",
       "createdAt": "2022-09-08T09:45:13Z",
       "repositoryNameWithOwner": "freeCodeCamp/freeCodeCamp",
@@ -83,6 +101,12 @@
       "createdAt": "2022-08-01T22:43:09Z",
       "repositoryNameWithOwner": "freeCodeCamp/freeCodeCamp",
       "url": "https://github.com/freeCodeCamp/freeCodeCamp/issues/47117"
+    },
+    {
+      "title": "it's not possible to run the tests for a single challenge in RWD-22",
+      "createdAt": "2022-07-28T09:56:11Z",
+      "repositoryNameWithOwner": "freeCodeCamp/freeCodeCamp",
+      "url": "https://github.com/freeCodeCamp/freeCodeCamp/issues/47057"
     },
     {
       "title": "data analysis with python projects are not i18n friendly",

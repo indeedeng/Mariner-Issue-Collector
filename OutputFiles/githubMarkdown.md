@@ -1,4 +1,4 @@
-## Updated: September 21, 2022 at 4:02 PM UTC
+## Updated: September 22, 2022 at 12:10 AM UTC
 
 
 ### indeedeng/starfish
@@ -12,8 +12,8 @@
 |[Cat Photo App 5 - Confusing Hint](https://github.com/freeCodeCamp/freeCodeCamp/issues/47573)|1&nbsp;days|
 |[Skip to content Button for accessibility](https://github.com/freeCodeCamp/freeCodeCamp/issues/47523)|6&nbsp;days|
 |[Broken test: Step 5 of Learn CSS transforms by building a penguin](https://github.com/freeCodeCamp/freeCodeCamp/issues/47513)|8&nbsp;days|
-|[Multifile editor refactor](https://github.com/freeCodeCamp/freeCodeCamp/issues/47467)|13&nbsp;days|
-|[[learn: New RWD] Hotkeys don't work when instructions are focused ](https://github.com/freeCodeCamp/freeCodeCamp/issues/47457)|14&nbsp;days|
+|[Multifile editor refactor](https://github.com/freeCodeCamp/freeCodeCamp/issues/47467)|14&nbsp;days|
+|[[learn: New RWD] Hotkeys don't work when instructions are focused ](https://github.com/freeCodeCamp/freeCodeCamp/issues/47457)|15&nbsp;days|
 |[Learn HTML Forms by Building a Registration Form](https://github.com/freeCodeCamp/freeCodeCamp/issues/47456)|15&nbsp;days|
 
 

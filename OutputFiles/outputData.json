@@ -21,12 +21,6 @@
       "url": "https://github.com/indeedeng/starfish/issues/104"
     },
     {
-      "title": "Provide default values for most configuration options",
-      "createdAt": "2020-10-28T17:10:05Z",
-      "repositoryNameWithOwner": "indeedeng/starfish",
-      "url": "https://github.com/indeedeng/starfish/issues/78"
-    },
-    {
       "title": "Add configuration options to allow filtering of employer-owned repositories",
       "createdAt": "2020-10-16T01:24:21Z",
       "repositoryNameWithOwner": "indeedeng/starfish",
@@ -42,12 +36,6 @@
   "indeedeng/mariner-issue-collector": [],
   "indeedeng/mariner": [],
   "freeCodeCamp/freeCodeCamp": [
-    {
-      "title": "Turn a quote into code block in Create RPG game project ",
-      "createdAt": "2022-09-29T14:22:14Z",
-      "repositoryNameWithOwner": "freeCodeCamp/freeCodeCamp",
-      "url": "https://github.com/freeCodeCamp/freeCodeCamp/issues/47661"
-    },
     {
       "title": "Add tests for navigating language menu with keyboard",
       "createdAt": "2022-09-28T13:59:21Z",
@@ -161,12 +149,6 @@
       "createdAt": "2022-06-15T06:42:02Z",
       "repositoryNameWithOwner": "freeCodeCamp/freeCodeCamp",
       "url": "https://github.com/freeCodeCamp/freeCodeCamp/issues/46502"
-    },
-    {
-      "title": "Making `/settings`' buttons consistent ",
-      "createdAt": "2022-06-14T12:52:28Z",
-      "repositoryNameWithOwner": "freeCodeCamp/freeCodeCamp",
-      "url": "https://github.com/freeCodeCamp/freeCodeCamp/issues/46497"
     },
     {
       "title": "Breadcrums in Help Text",

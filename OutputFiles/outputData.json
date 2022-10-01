@@ -37,18 +37,6 @@
   "indeedeng/mariner": [],
   "freeCodeCamp/freeCodeCamp": [
     {
-      "title": "Update data viz demo project URL's",
-      "createdAt": "2022-09-30T22:55:02Z",
-      "repositoryNameWithOwner": "freeCodeCamp/freeCodeCamp",
-      "url": "https://github.com/freeCodeCamp/freeCodeCamp/issues/47691"
-    },
-    {
-      "title": "Typo fixes",
-      "createdAt": "2022-09-30T22:30:35Z",
-      "repositoryNameWithOwner": "freeCodeCamp/freeCodeCamp",
-      "url": "https://github.com/freeCodeCamp/freeCodeCamp/issues/47689"
-    },
-    {
       "title": "Add tests for navigating language menu with keyboard",
       "createdAt": "2022-09-28T13:59:21Z",
       "repositoryNameWithOwner": "freeCodeCamp/freeCodeCamp",

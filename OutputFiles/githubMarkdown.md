@@ -1,4 +1,4 @@
-## Updated: October 3, 2022 at 1:08 AM UTC
+## Updated: October 3, 2022 at 8:17 AM UTC
 
 
 ### indeedeng/starfish
@@ -9,13 +9,13 @@
 ### freeCodeCamp/freeCodeCamp
 |**Title**|**Age**|
 |:----|:----|
-|[Add tests for navigating language menu with keyboard](https://github.com/freeCodeCamp/freeCodeCamp/issues/47649)|4&nbsp;days|
+|[Add tests for navigating language menu with keyboard](https://github.com/freeCodeCamp/freeCodeCamp/issues/47649)|5&nbsp;days|
 |[accessibility quiz step 56 is confusing](https://github.com/freeCodeCamp/freeCodeCamp/issues/47588)|11&nbsp;days|
-|[Skip to content Button for accessibility](https://github.com/freeCodeCamp/freeCodeCamp/issues/47523)|17&nbsp;days|
+|[Skip to content Button for accessibility](https://github.com/freeCodeCamp/freeCodeCamp/issues/47523)|18&nbsp;days|
 |[Broken test: Step 5 of Learn CSS transforms by building a penguin](https://github.com/freeCodeCamp/freeCodeCamp/issues/47513)|19&nbsp;days|
 |[Multifile editor refactor](https://github.com/freeCodeCamp/freeCodeCamp/issues/47467)|25&nbsp;days|
 |[[learn: New RWD] Hotkeys don't work when instructions are focused ](https://github.com/freeCodeCamp/freeCodeCamp/issues/47457)|26&nbsp;days|
-|[Learn HTML Forms by Building a Registration Form](https://github.com/freeCodeCamp/freeCodeCamp/issues/47456)|26&nbsp;days|
+|[Learn HTML Forms by Building a Registration Form](https://github.com/freeCodeCamp/freeCodeCamp/issues/47456)|27&nbsp;days|
 
 
 ### indeedeng/Mariner-Issue-Collector

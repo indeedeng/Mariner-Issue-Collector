@@ -241,12 +241,6 @@
       "url": "https://github.com/freeCodeCamp/freeCodeCamp/issues/45277"
     },
     {
-      "title": "Weird Instructions -> Add Elements to the End of an Array Using concat Instead of push",
-      "createdAt": "2022-02-19T23:30:45Z",
-      "repositoryNameWithOwner": "freeCodeCamp/freeCodeCamp",
-      "url": "https://github.com/freeCodeCamp/freeCodeCamp/issues/45194"
-    },
-    {
       "title": "Report of incorrect a11y guidance for \"Make Screen Reader Navigation Easier with the header Landmark\"",
       "createdAt": "2022-02-11T23:05:54Z",
       "repositoryNameWithOwner": "freeCodeCamp/freeCodeCamp",

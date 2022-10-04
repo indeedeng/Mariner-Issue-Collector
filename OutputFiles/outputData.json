@@ -37,12 +37,6 @@
   "indeedeng/mariner": [],
   "freeCodeCamp/freeCodeCamp": [
     {
-      "title": "Delete redundant location input in user profile.",
-      "createdAt": "2022-10-03T20:06:30Z",
-      "repositoryNameWithOwner": "freeCodeCamp/freeCodeCamp",
-      "url": "https://github.com/freeCodeCamp/freeCodeCamp/issues/47809"
-    },
-    {
       "title": "Add tests for navigating language menu with keyboard",
       "createdAt": "2022-09-28T13:59:21Z",
       "repositoryNameWithOwner": "freeCodeCamp/freeCodeCamp",

@@ -37,6 +37,12 @@
   "indeedeng/mariner": [],
   "freeCodeCamp/freeCodeCamp": [
     {
+      "title": "Delete redundant location input in user profile.",
+      "createdAt": "2022-10-03T20:06:30Z",
+      "repositoryNameWithOwner": "freeCodeCamp/freeCodeCamp",
+      "url": "https://github.com/freeCodeCamp/freeCodeCamp/issues/47809"
+    },
+    {
       "title": "Add tests for navigating language menu with keyboard",
       "createdAt": "2022-09-28T13:59:21Z",
       "repositoryNameWithOwner": "freeCodeCamp/freeCodeCamp",
@@ -113,12 +119,6 @@
       "createdAt": "2022-07-23T01:26:06Z",
       "repositoryNameWithOwner": "freeCodeCamp/freeCodeCamp",
       "url": "https://github.com/freeCodeCamp/freeCodeCamp/issues/46997"
-    },
-    {
-      "title": "Product Landing Page: allow flexbox to be set only inside a media query",
-      "createdAt": "2022-07-13T18:59:50Z",
-      "repositoryNameWithOwner": "freeCodeCamp/freeCodeCamp",
-      "url": "https://github.com/freeCodeCamp/freeCodeCamp/issues/46887"
     },
     {
       "title": "Specify the number of project from full Projects is Complete",

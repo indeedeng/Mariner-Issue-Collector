@@ -9,12 +9,6 @@
       "url": "https://github.com/indeedeng/starfish/issues/126"
     },
     {
-      "title": "integration tests/ more tests",
-      "createdAt": "2021-09-29T22:19:35Z",
-      "repositoryNameWithOwner": "indeedeng/starfish",
-      "url": "https://github.com/indeedeng/starfish/issues/117"
-    },
-    {
       "title": "only ignore self-owned events if the project isn't used by others",
       "createdAt": "2021-03-02T01:46:48Z",
       "repositoryNameWithOwner": "indeedeng/starfish",

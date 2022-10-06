@@ -115,12 +115,6 @@
       "url": "https://github.com/freeCodeCamp/freeCodeCamp/issues/46675"
     },
     {
-      "title": "Consider changing monospaced font for code examples",
-      "createdAt": "2022-06-16T20:12:01Z",
-      "repositoryNameWithOwner": "freeCodeCamp/freeCodeCamp",
-      "url": "https://github.com/freeCodeCamp/freeCodeCamp/issues/46530"
-    },
-    {
       "title": "Move Legacy RWD to bottom of map",
       "createdAt": "2022-06-16T13:24:38Z",
       "repositoryNameWithOwner": "freeCodeCamp/freeCodeCamp",
@@ -175,7 +169,7 @@
       "url": "https://github.com/freeCodeCamp/freeCodeCamp/issues/46061"
     },
     {
-      "title": "FreeCodeCamp preview editor re-renders incorrectly",
+      "title": "Preview editor re-renders incorrectly",
       "createdAt": "2022-05-18T20:25:33Z",
       "repositoryNameWithOwner": "freeCodeCamp/freeCodeCamp",
       "url": "https://github.com/freeCodeCamp/freeCodeCamp/issues/46057"

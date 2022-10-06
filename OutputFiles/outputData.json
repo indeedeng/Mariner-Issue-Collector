@@ -43,12 +43,6 @@
       "url": "https://github.com/freeCodeCamp/freeCodeCamp/issues/47588"
     },
     {
-      "title": "Skip to content Button for accessibility",
-      "createdAt": "2022-09-15T13:45:20Z",
-      "repositoryNameWithOwner": "freeCodeCamp/freeCodeCamp",
-      "url": "https://github.com/freeCodeCamp/freeCodeCamp/issues/47523"
-    },
-    {
       "title": "Broken test: Step 5 of Learn CSS transforms by building a penguin",
       "createdAt": "2022-09-13T20:29:51Z",
       "repositoryNameWithOwner": "freeCodeCamp/freeCodeCamp",
@@ -221,12 +215,6 @@
       "createdAt": "2022-03-23T07:51:05Z",
       "repositoryNameWithOwner": "freeCodeCamp/freeCodeCamp",
       "url": "https://github.com/freeCodeCamp/freeCodeCamp/issues/45510"
-    },
-    {
-      "title": "Prevent circular imports via linting",
-      "createdAt": "2022-02-27T15:17:31Z",
-      "repositoryNameWithOwner": "freeCodeCamp/freeCodeCamp",
-      "url": "https://github.com/freeCodeCamp/freeCodeCamp/issues/45277"
     },
     {
       "title": "Report of incorrect a11y guidance for \"Make Screen Reader Navigation Easier with the header Landmark\"",

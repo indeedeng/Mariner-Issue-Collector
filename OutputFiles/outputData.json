@@ -49,6 +49,12 @@
       "url": "https://github.com/freeCodeCamp/freeCodeCamp/issues/47513"
     },
     {
+      "title": "Confusing wording which should be changed",
+      "createdAt": "2022-09-09T09:26:09Z",
+      "repositoryNameWithOwner": "freeCodeCamp/freeCodeCamp",
+      "url": "https://github.com/freeCodeCamp/freeCodeCamp/issues/47476"
+    },
+    {
       "title": "Multifile editor refactor",
       "createdAt": "2022-09-08T09:45:13Z",
       "repositoryNameWithOwner": "freeCodeCamp/freeCodeCamp",
@@ -65,6 +71,12 @@
       "createdAt": "2022-09-06T17:29:24Z",
       "repositoryNameWithOwner": "freeCodeCamp/freeCodeCamp",
       "url": "https://github.com/freeCodeCamp/freeCodeCamp/issues/47456"
+    },
+    {
+      "title": "Replace button with icons in the lower jar of the challenges",
+      "createdAt": "2022-08-04T14:24:21Z",
+      "repositoryNameWithOwner": "freeCodeCamp/freeCodeCamp",
+      "url": "https://github.com/freeCodeCamp/freeCodeCamp/issues/47157"
     },
     {
       "title": "Auto-formatter does not follow FCC indentation standards for `body` and `head` elements",

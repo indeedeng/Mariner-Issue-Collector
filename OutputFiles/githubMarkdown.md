@@ -1,4 +1,4 @@
-## Updated: October 11, 2022 at 8:21 AM UTC
+## Updated: October 11, 2022 at 4:20 PM UTC
 
 
 ### indeedeng/starfish
@@ -9,9 +9,9 @@
 ### freeCodeCamp/freeCodeCamp
 |**Title**|**Age**|
 |:----|:----|
+|[Hide breadcrumbs when in CodeAlly container (relational database challenge)](https://github.com/freeCodeCamp/freeCodeCamp/issues/47980)|0&nbsp;days|
 |[Add tests for navigating language menu with keyboard](https://github.com/freeCodeCamp/freeCodeCamp/issues/47649)|13&nbsp;days|
-|[accessibility quiz step 56 is confusing](https://github.com/freeCodeCamp/freeCodeCamp/issues/47588)|19&nbsp;days|
-|[Broken test: Step 5 of Learn CSS transforms by building a penguin](https://github.com/freeCodeCamp/freeCodeCamp/issues/47513)|27&nbsp;days|
+|[Broken test: Step 5 of Learn CSS transforms by building a penguin](https://github.com/freeCodeCamp/freeCodeCamp/issues/47513)|28&nbsp;days|
 
 
 ### indeedeng/Mariner-Issue-Collector

@@ -31,12 +31,6 @@
   "indeedeng/mariner": [],
   "freeCodeCamp/freeCodeCamp": [
     {
-      "title": "Hide breadcrumbs when in CodeAlly container (relational database challenge)",
-      "createdAt": "2022-10-11T13:54:14Z",
-      "repositoryNameWithOwner": "freeCodeCamp/freeCodeCamp",
-      "url": "https://github.com/freeCodeCamp/freeCodeCamp/issues/47980"
-    },
-    {
       "title": "Add tests for navigating language menu with keyboard",
       "createdAt": "2022-09-28T13:59:21Z",
       "repositoryNameWithOwner": "freeCodeCamp/freeCodeCamp",
@@ -53,12 +47,6 @@
       "createdAt": "2022-09-13T20:29:51Z",
       "repositoryNameWithOwner": "freeCodeCamp/freeCodeCamp",
       "url": "https://github.com/freeCodeCamp/freeCodeCamp/issues/47513"
-    },
-    {
-      "title": "Confusing wording which should be changed",
-      "createdAt": "2022-09-09T09:26:09Z",
-      "repositoryNameWithOwner": "freeCodeCamp/freeCodeCamp",
-      "url": "https://github.com/freeCodeCamp/freeCodeCamp/issues/47476"
     },
     {
       "title": "Multifile editor refactor",

@@ -43,6 +43,12 @@
       "url": "https://github.com/freeCodeCamp/freeCodeCamp/issues/47649"
     },
     {
+      "title": "feedback on Learn Css Variables By Building A City Skyline",
+      "createdAt": "2022-09-18T14:47:42Z",
+      "repositoryNameWithOwner": "freeCodeCamp/freeCodeCamp",
+      "url": "https://github.com/freeCodeCamp/freeCodeCamp/issues/47555"
+    },
+    {
       "title": "Broken test: Step 5 of Learn CSS transforms by building a penguin",
       "createdAt": "2022-09-13T20:29:51Z",
       "repositoryNameWithOwner": "freeCodeCamp/freeCodeCamp",
@@ -167,12 +173,6 @@
       "createdAt": "2022-05-19T07:57:15Z",
       "repositoryNameWithOwner": "freeCodeCamp/freeCodeCamp",
       "url": "https://github.com/freeCodeCamp/freeCodeCamp/issues/46061"
-    },
-    {
-      "title": "Preview editor re-renders incorrectly",
-      "createdAt": "2022-05-18T20:25:33Z",
-      "repositoryNameWithOwner": "freeCodeCamp/freeCodeCamp",
-      "url": "https://github.com/freeCodeCamp/freeCodeCamp/issues/46057"
     },
     {
       "title": "View button on new RWD certs looks out of place",

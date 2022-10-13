@@ -31,6 +31,12 @@
   "indeedeng/mariner": [],
   "freeCodeCamp/freeCodeCamp": [
     {
+      "title": "Euler - Solution Efficiency ",
+      "createdAt": "2022-10-04T13:56:54Z",
+      "repositoryNameWithOwner": "freeCodeCamp/freeCodeCamp",
+      "url": "https://github.com/freeCodeCamp/freeCodeCamp/issues/47824"
+    },
+    {
       "title": "Add tests for navigating language menu with keyboard",
       "createdAt": "2022-09-28T13:59:21Z",
       "repositoryNameWithOwner": "freeCodeCamp/freeCodeCamp",

@@ -31,6 +31,12 @@
   "indeedeng/mariner": [],
   "freeCodeCamp/freeCodeCamp": [
     {
+      "title": "Mistake in the text of new JS challenge",
+      "createdAt": "2022-10-13T16:25:33Z",
+      "repositoryNameWithOwner": "freeCodeCamp/freeCodeCamp",
+      "url": "https://github.com/freeCodeCamp/freeCodeCamp/issues/48027"
+    },
+    {
       "title": "Euler - Solution Efficiency ",
       "createdAt": "2022-10-04T13:56:54Z",
       "repositoryNameWithOwner": "freeCodeCamp/freeCodeCamp",

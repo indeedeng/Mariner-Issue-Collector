@@ -1,5 +1,90 @@
 {
-  "skooner-k8s/skooner": [],
+  "skooner-k8s/skooner": [
+    {
+      "title": "[Feature] Add button to force refresh, and set custom refresh interval",
+      "createdAt": "2022-08-11T08:57:12Z",
+      "repositoryNameWithOwner": "skooner-k8s/skooner",
+      "url": "https://github.com/skooner-k8s/skooner/issues/347"
+    },
+    {
+      "title": "Sort not working",
+      "createdAt": "2022-06-28T12:08:22Z",
+      "repositoryNameWithOwner": "skooner-k8s/skooner",
+      "url": "https://github.com/skooner-k8s/skooner/issues/338"
+    },
+    {
+      "title": "CronJobs and Jobs support",
+      "createdAt": "2022-04-06T13:22:04Z",
+      "repositoryNameWithOwner": "skooner-k8s/skooner",
+      "url": "https://github.com/skooner-k8s/skooner/issues/318"
+    },
+    {
+      "title": "[Feature[ Disable health check success logs",
+      "createdAt": "2021-07-16T14:01:55Z",
+      "repositoryNameWithOwner": "skooner-k8s/skooner",
+      "url": "https://github.com/skooner-k8s/skooner/issues/248"
+    },
+    {
+      "title": "Use Prometheus for the job number in the workload",
+      "createdAt": "2021-07-11T17:23:01Z",
+      "repositoryNameWithOwner": "skooner-k8s/skooner",
+      "url": "https://github.com/skooner-k8s/skooner/issues/245"
+    },
+    {
+      "title": "Use Prometheus for the pie charts in the ReplicaSet page",
+      "createdAt": "2021-07-11T17:20:55Z",
+      "repositoryNameWithOwner": "skooner-k8s/skooner",
+      "url": "https://github.com/skooner-k8s/skooner/issues/244"
+    },
+    {
+      "title": "Display failed to load text instead of loading component",
+      "createdAt": "2021-07-01T17:50:01Z",
+      "repositoryNameWithOwner": "skooner-k8s/skooner",
+      "url": "https://github.com/skooner-k8s/skooner/issues/242"
+    },
+    {
+      "title": "UI: It would be nice if boxes/frames had labels",
+      "createdAt": "2020-12-03T14:29:31Z",
+      "repositoryNameWithOwner": "skooner-k8s/skooner",
+      "url": "https://github.com/skooner-k8s/skooner/issues/177"
+    },
+    {
+      "title": "Add additional data to the Pod view",
+      "createdAt": "2020-12-03T14:28:26Z",
+      "repositoryNameWithOwner": "skooner-k8s/skooner",
+      "url": "https://github.com/skooner-k8s/skooner/issues/176"
+    },
+    {
+      "title": "Fix styling of dropdown's in dark mode",
+      "createdAt": "2020-10-04T17:11:37Z",
+      "repositoryNameWithOwner": "skooner-k8s/skooner",
+      "url": "https://github.com/skooner-k8s/skooner/issues/152"
+    },
+    {
+      "title": "Use \"prefers-color-scheme\" to automatically switch to Dark Mode",
+      "createdAt": "2020-10-02T14:09:12Z",
+      "repositoryNameWithOwner": "skooner-k8s/skooner",
+      "url": "https://github.com/skooner-k8s/skooner/issues/144"
+    },
+    {
+      "title": "No logs in dashboard",
+      "createdAt": "2020-01-27T09:30:38Z",
+      "repositoryNameWithOwner": "skooner-k8s/skooner",
+      "url": "https://github.com/skooner-k8s/skooner/issues/61"
+    },
+    {
+      "title": "Feature Request: Add support for Replication Controllers in Workloads view",
+      "createdAt": "2020-01-14T10:29:54Z",
+      "repositoryNameWithOwner": "skooner-k8s/skooner",
+      "url": "https://github.com/skooner-k8s/skooner/issues/57"
+    },
+    {
+      "title": "FeatureRequest: add download button for logs",
+      "createdAt": "2020-01-10T11:00:02Z",
+      "repositoryNameWithOwner": "skooner-k8s/skooner",
+      "url": "https://github.com/skooner-k8s/skooner/issues/56"
+    }
+  ],
   "fasterxml/jackson": [],
   "indeedeng/starfish": [
     {

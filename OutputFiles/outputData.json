@@ -116,6 +116,12 @@
   "indeedeng/mariner": [],
   "freeCodeCamp/freeCodeCamp": [
     {
+      "title": "Editor contents resets whenever tests are run",
+      "createdAt": "2022-10-21T15:45:36Z",
+      "repositoryNameWithOwner": "freeCodeCamp/freeCodeCamp",
+      "url": "https://github.com/freeCodeCamp/freeCodeCamp/issues/48173"
+    },
+    {
       "title": "Missing code block in step 154 of new JS rpg project",
       "createdAt": "2022-10-16T19:02:18Z",
       "repositoryNameWithOwner": "freeCodeCamp/freeCodeCamp",
@@ -126,6 +132,12 @@
       "createdAt": "2022-10-16T14:57:16Z",
       "repositoryNameWithOwner": "freeCodeCamp/freeCodeCamp",
       "url": "https://github.com/freeCodeCamp/freeCodeCamp/issues/48079"
+    },
+    {
+      "title": "Replacing the preview icon, with clearer one",
+      "createdAt": "2022-10-08T08:33:13Z",
+      "repositoryNameWithOwner": "freeCodeCamp/freeCodeCamp",
+      "url": "https://github.com/freeCodeCamp/freeCodeCamp/issues/47923"
     },
     {
       "title": "Euler - Solution Efficiency ",
@@ -282,12 +294,6 @@
       "createdAt": "2022-03-28T20:34:04Z",
       "repositoryNameWithOwner": "freeCodeCamp/freeCodeCamp",
       "url": "https://github.com/freeCodeCamp/freeCodeCamp/issues/45563"
-    },
-    {
-      "title": "Addding a margin to the header",
-      "createdAt": "2022-03-23T07:51:05Z",
-      "repositoryNameWithOwner": "freeCodeCamp/freeCodeCamp",
-      "url": "https://github.com/freeCodeCamp/freeCodeCamp/issues/45510"
     },
     {
       "title": "Exercise Tracker - Issue with one test case due to timezones",

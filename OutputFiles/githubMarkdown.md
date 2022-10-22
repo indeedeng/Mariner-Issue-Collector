@@ -1,4 +1,4 @@
-## Updated: October 21, 2022 at 4:05 PM UTC
+## Updated: October 22, 2022 at 12:12 AM UTC
 
 
 ### skooner-k8s/skooner
@@ -17,9 +17,6 @@
 |[Editor contents resets whenever tests are run](https://github.com/freeCodeCamp/freeCodeCamp/issues/48173)|0&nbsp;days|
 |[Missing code block in step 154 of new JS rpg project](https://github.com/freeCodeCamp/freeCodeCamp/issues/48087)|5&nbsp;days|
 |[Learn Git Lesson gives incorrect definition of soft and medium resets](https://github.com/freeCodeCamp/freeCodeCamp/issues/48079)|5&nbsp;days|
-|[Replacing the preview icon, with clearer one](https://github.com/freeCodeCamp/freeCodeCamp/issues/47923)|13&nbsp;days|
-|[Euler - Solution Efficiency ](https://github.com/freeCodeCamp/freeCodeCamp/issues/47824)|17&nbsp;days|
-|[Add tests for navigating language menu with keyboard](https://github.com/freeCodeCamp/freeCodeCamp/issues/47649)|23&nbsp;days|
 
 
 ### indeedeng/Mariner-Issue-Collector

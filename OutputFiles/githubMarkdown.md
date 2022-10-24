@@ -1,4 +1,4 @@
-## Updated: October 24, 2022 at 12:13 AM UTC
+## Updated: October 24, 2022 at 8:08 AM UTC
 
 
 ### skooner-k8s/skooner
@@ -14,8 +14,8 @@
 ### freeCodeCamp/freeCodeCamp
 |**Title**|**Age**|
 |:----|:----|
-|[Editor contents resets whenever tests are run](https://github.com/freeCodeCamp/freeCodeCamp/issues/48173)|2&nbsp;days|
-|[Learn Git Lesson gives incorrect definition of soft and medium resets](https://github.com/freeCodeCamp/freeCodeCamp/issues/48079)|7&nbsp;days|
+|[Editor contents resets whenever tests are run](https://github.com/freeCodeCamp/freeCodeCamp/issues/48173)|3&nbsp;days|
+|[Learn Git Lesson gives incorrect definition of soft and medium resets](https://github.com/freeCodeCamp/freeCodeCamp/issues/48079)|8&nbsp;days|
 
 
 ### indeedeng/Mariner-Issue-Collector

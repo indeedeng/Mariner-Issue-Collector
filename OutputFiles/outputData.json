@@ -278,12 +278,6 @@
       "url": "https://github.com/freeCodeCamp/freeCodeCamp/issues/43778"
     },
     {
-      "title": "Global State Reset Bug",
-      "createdAt": "2021-09-21T14:16:59Z",
-      "repositoryNameWithOwner": "freeCodeCamp/freeCodeCamp",
-      "url": "https://github.com/freeCodeCamp/freeCodeCamp/issues/43516"
-    },
-    {
       "title": "Unable to select keyboard on iOS (Safari)",
       "createdAt": "2021-08-18T14:31:24Z",
       "repositoryNameWithOwner": "freeCodeCamp/freeCodeCamp",

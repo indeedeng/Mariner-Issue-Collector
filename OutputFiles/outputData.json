@@ -116,12 +116,6 @@
   "indeedeng/mariner": [],
   "freeCodeCamp/freeCodeCamp": [
     {
-      "title": "Editor contents resets whenever tests are run",
-      "createdAt": "2022-10-21T15:45:36Z",
-      "repositoryNameWithOwner": "freeCodeCamp/freeCodeCamp",
-      "url": "https://github.com/freeCodeCamp/freeCodeCamp/issues/48173"
-    },
-    {
       "title": "Sentence that needs improvement in the new JS rpg project",
       "createdAt": "2022-10-18T18:38:51Z",
       "repositoryNameWithOwner": "freeCodeCamp/freeCodeCamp",

@@ -158,12 +158,6 @@
       "url": "https://github.com/freeCodeCamp/freeCodeCamp/issues/47118"
     },
     {
-      "title": "Stuck in challenge when I had a typo",
-      "createdAt": "2022-08-01T22:43:09Z",
-      "repositoryNameWithOwner": "freeCodeCamp/freeCodeCamp",
-      "url": "https://github.com/freeCodeCamp/freeCodeCamp/issues/47117"
-    },
-    {
       "title": "it's not possible to run the tests for a single challenge in RWD-22",
       "createdAt": "2022-07-28T09:56:11Z",
       "repositoryNameWithOwner": "freeCodeCamp/freeCodeCamp",
@@ -234,18 +228,6 @@
       "createdAt": "2022-05-11T17:23:23Z",
       "repositoryNameWithOwner": "freeCodeCamp/freeCodeCamp",
       "url": "https://github.com/freeCodeCamp/freeCodeCamp/issues/45922"
-    },
-    {
-      "title": "Issue with Primary Key name when getting the 5th table with primary key",
-      "createdAt": "2022-04-11T00:26:33Z",
-      "repositoryNameWithOwner": "freeCodeCamp/freeCodeCamp",
-      "url": "https://github.com/freeCodeCamp/freeCodeCamp/issues/45666"
-    },
-    {
-      "title": "[RDB] Bug in celestial bodies project",
-      "createdAt": "2022-03-31T16:16:34Z",
-      "repositoryNameWithOwner": "freeCodeCamp/freeCodeCamp",
-      "url": "https://github.com/freeCodeCamp/freeCodeCamp/issues/45585"
     },
     {
       "title": "All Failed-Ops Redirect to FAQ/Info Page",

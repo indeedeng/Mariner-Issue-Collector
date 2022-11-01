@@ -116,22 +116,10 @@
   "indeedeng/mariner": [],
   "freeCodeCamp/freeCodeCamp": [
     {
-      "title": "Sentence that needs improvement in the new JS rpg project",
-      "createdAt": "2022-10-18T18:38:51Z",
-      "repositoryNameWithOwner": "freeCodeCamp/freeCodeCamp",
-      "url": "https://github.com/freeCodeCamp/freeCodeCamp/issues/48118"
-    },
-    {
       "title": "feedback on Learn Css Variables By Building A City Skyline",
       "createdAt": "2022-09-18T14:47:42Z",
       "repositoryNameWithOwner": "freeCodeCamp/freeCodeCamp",
       "url": "https://github.com/freeCodeCamp/freeCodeCamp/issues/47555"
-    },
-    {
-      "title": "Broken test: Step 5 of Learn CSS transforms by building a penguin",
-      "createdAt": "2022-09-13T20:29:51Z",
-      "repositoryNameWithOwner": "freeCodeCamp/freeCodeCamp",
-      "url": "https://github.com/freeCodeCamp/freeCodeCamp/issues/47513"
     },
     {
       "title": "Multifile editor refactor",

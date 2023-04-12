@@ -77,12 +77,6 @@
       "createdAt": "2020-01-14T10:29:54Z",
       "repositoryNameWithOwner": "skooner-k8s/skooner",
       "url": "https://github.com/skooner-k8s/skooner/issues/57"
-    },
-    {
-      "title": "FeatureRequest: add download button for logs",
-      "createdAt": "2020-01-10T11:00:02Z",
-      "repositoryNameWithOwner": "skooner-k8s/skooner",
-      "url": "https://github.com/skooner-k8s/skooner/issues/56"
     }
   ],
   "fasterxml/jackson": [],
